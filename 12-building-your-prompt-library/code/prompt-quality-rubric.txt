@@ -1,0 +1,83 @@
+=======================================================================
+  PROMPT QUALITY RUBRIC
+  The AI-Powered Professional · Chapter 12 · Project P12
+-----------------------------------------------------------------------
+  Use this to TEST a prompt template before you trust it in your library.
+  A prompt is not "good" because it worked once. It is good when it
+  produces consistent, correct, usable output ACROSS several runs and
+  several sets of inputs. This rubric makes you check that on purpose.
+
+  HOW TO SCORE ONE TEMPLATE
+  - Fill the template with a real (non-confidential) set of inputs.
+  - Run it THREE times (same inputs) in the same tool. Note whether the
+    three outputs are consistent in shape and quality.
+  - Then run it once more with a DIFFERENT set of inputs, to test that
+    the variables really cover the variation you meet in real work.
+  - Score each of the 8 criteria: 0 = missing, 1 = partial, 2 = solid.
+  - Max score = 16. Read the bands at the bottom.
+=======================================================================
+
+  1. CLEAR OBJECTIVE            [ 0 / 1 / 2 ]
+     Does the template state exactly what you want produced, in one
+     unambiguous ask? (Not "help with this email" but "draft a reply
+     that does X, Y, Z.")
+
+  2. CONTEXT SUPPLIED           [ 0 / 1 / 2 ]
+     Does it give the model the background it needs — who the reader is,
+     what the situation is, any constraints — instead of assuming?
+
+  3. ROLE / AUDIENCE SET        [ 0 / 1 / 2 ]
+     Does it tell the model who to be ("an experienced support
+     specialist") and/or who the output is for ("a time-poor manager")?
+
+  4. OUTPUT FORMAT SPECIFIED    [ 0 / 1 / 2 ]
+     Does it pin the shape of the answer — length, structure, a table, a
+     bullet list, a word limit — so the result is predictable?
+
+  5. GUARDRAILS AGAINST         [ 0 / 1 / 2 ]
+     FABRICATION
+     Does it tell the model NOT to invent facts, owners, dates, policies,
+     or citations, and to flag anything it could not confirm?
+
+  6. VARIABLES COVER THE        [ 0 / 1 / 2 ]
+     VARIATION
+     When you swap in a genuinely different input, does the {{placeholder}}
+     set still work — or did you have to rewrite the template? Good
+     variables absorb the differences you actually meet.
+
+  7. CONSISTENCY ACROSS RUNS    [ 0 / 1 / 2 ]
+     Across your three same-input runs, is the output reliably in the
+     right shape and quality? (Wild swings mean the prompt is
+     under-specified — tighten the objective and the format.)
+
+  8. SAFE + POLICY-CLEAN        [ 0 / 1 / 2 ]
+     Is the template free of real secrets/PII/PHI/confidential data? Do
+     the private details live only in the {{blanks}} at use time, within
+     what your org's policy allows? (See Appendix C.)
+
+  -----------------------------------------------------------------
+  TOTAL: ____ / 16
+  -----------------------------------------------------------------
+
+  SCORE BANDS
+    14–16  Library-ready. Save it, name it, version it (v1 + date).
+    10–13  Usable but leaky. Note the weak criterion in the QUALITY field
+           and fix it next iteration; bump the version when you do.
+     6–9   Draft. It worked by luck, not design. Rewrite the weakest two
+           criteria before you rely on it.
+     0–5   One-off. Do not add to the library yet.
+
+  -----------------------------------------------------------------
+  THE HUMAN CLAUSE (non-negotiable)
+    A high score does NOT mean "send without reading." You choose the
+    tool; you own the verdict. The rubric measures the PROMPT. You still
+    verify the OUTPUT — every time the stakes are real. A perfect template
+    can still produce a wrong answer on a given run. AI is an assistant,
+    not an authority.
+  -----------------------------------------------------------------
+
+  QUICK LOG (copy one row per template you test)
+    Template name | Runs | Total /16 | Weakest criterion | Action
+    --------------|------|-----------|-------------------|--------
+                  |      |           |                   |
+=======================================================================

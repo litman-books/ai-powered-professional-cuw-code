@@ -1,0 +1,146 @@
+========================================================================
+  WEEKLY WORKFLOW MAPPING TEMPLATE
+  Chapter 15 — Building Your AI-Enhanced Workflow
+  "The AI-Powered Professional"
+------------------------------------------------------------------------
+  HOW TO USE THIS FILE
+  1. Copy it into your own doc (Google Docs / Word / a plain note).
+  2. Fill PART 1 by hand, BEFORE you ask any AI to help. Look at your
+     real week, not the week you wish you had.
+  3. Then work through PART 2 (triage), PART 3 (automation), PART 4
+     (one designed workflow), and PART 5 (measure).
+  4. Keep it. This template is the backbone of the graded lab.
+
+  KEY: shape  = RULE-shaped (describable procedure, checkable output)
+                or JUDGMENT-shaped (it depends, and you decide)
+       bucket = SELF  (do it yourself, AI stays out)
+                ASSIST (delegate to AI, then verify)
+                NEVER  (never delegate / never paste — policy, law,
+                        confidential data, or a call only you may make)
+========================================================================
+
+
+------------------------------------------------------------------------
+PART 1 — MAP YOUR WEEK (fill this in first, by hand)
+------------------------------------------------------------------------
+List your recurring tasks. Add rows as needed. Be honest about time —
+include the parts you forget (formatting, re-reading, chasing details).
+
+ # | Task (the recurring unit of work) | Frequency | Time each | Time/week | Shape (RULE/JUDGMENT)
+---+-----------------------------------+-----------+-----------+-----------+----------------------
+ 1 |                                   |           |           |           |
+ 2 |                                   |           |           |           |
+ 3 |                                   |           |           |           |
+ 4 |                                   |           |           |           |
+ 5 |                                   |           |           |           |
+ 6 |                                   |           |           |           |
+ 7 |                                   |           |           |           |
+
+Total recurring time/week (rough): ______
+
+Which one task costs you the most time for the least judgment?  ______
+(That one is your prime automation suspect. Circle it.)
+
+
+------------------------------------------------------------------------
+PART 2 — TRIAGE EVERY TASK (SELF / ASSIST / NEVER)
+------------------------------------------------------------------------
+For each task above, pick a bucket and give a one-line reason. The test
+for ASSIST vs SELF: "If the AI got this subtly wrong, would I catch it
+before it did harm?"  Yes -> ASSIST with a gate.  No -> SELF.
+The test for NEVER: confidential/PII/PHI, or a call that is legally or
+professionally mine to make.
+
+ # | Task                    | Bucket (SELF/ASSIST/NEVER) | Why this bucket (one line)
+---+-------------------------+----------------------------+---------------------------
+ 1 |                         |                            |
+ 2 |                         |                            |
+ 3 |                         |                            |
+ 4 |                         |                            |
+ 5 |                         |                            |
+ 6 |                         |                            |
+ 7 |                         |                            |
+
+Any task you were tempted to put in ASSIST that actually belongs in
+NEVER (confidential data / a call only you may make)?  __________________
+Name it and say what stopped you: _______________________________________
+
+
+------------------------------------------------------------------------
+PART 3 — SPOT AUTOMATION OPPORTUNITIES
+------------------------------------------------------------------------
+Run the four-part test on your ASSIST-zone tasks only. Mark Y/N.
+A strong opportunity is mostly Y's.
+
+ Task | Recurring? | Rule-shaped? | Verifiable (cheap to check)? | Bounded stakes? | Verdict
+------+------------+--------------+------------------------------+-----------------+---------
+      |            |              |                              |                 |
+      |            |              |                              |                 |
+      |            |              |                              |                 |
+
+Verdict key:  TEMPLATE (make a reusable prompt) /
+              AGENT (multi-step, delegate with a human approval gate) /
+              LEAVE AS ONE-OFF (human-led each time)
+
+Which task made you type nearly the same prompt three times? __________
+(That repetition-in-the-fingers is the signal to capture a template.)
+
+
+------------------------------------------------------------------------
+PART 4 — DESIGN ONE WORKFLOW, END TO END
+------------------------------------------------------------------------
+Pick ONE task and design it as a sequence of steps. For each step, mark
+whether it is an AI-step or a HUMAN-VERIFY step, name the tool/model
+tier, and name what gets checked. There must be a human-verify step
+between any AI-step and anything that ships.
+
+Task chosen: ____________________________________________________________
+
+ Step | What happens                | AI-step or   | Tool / model tier      | Verify: what gets checked
+      |                             | HUMAN-verify | (per step!)            | (if human-verify)
+------+-----------------------------+--------------+------------------------+---------------------------
+  1   |                             |              |                        |
+  2   |                             |              |                        |
+  3   |                             |              |                        |
+  4   |                             |              |                        |
+  5   |                             |              |                        |
+
+Model tiers reminder (mid-2026 snapshot -- verify current IDs/prices):
+   simple/high-volume  -> fast/cheap  (e.g. Claude Haiku 4.5 / a mini/flash)
+   everyday work       -> balanced    (e.g. Claude Sonnet 5 / GPT-5.5 / Gemini Flash)
+   hard/long-document  -> frontier    (e.g. Claude Opus 4.8 or Fable 5 / Gemini 3 Pro)
+   needs current facts -> answer engine (Perplexity / Grok) -- CHECK CITATIONS
+   video/audio to read -> multimodal (Gemini) or a meeting tool
+
+Never-paste check: does any step risk sending confidential/PII/PHI into a
+public tool?  (Y/N) ____  If Y, redesign that step. See Appendix C.
+
+
+------------------------------------------------------------------------
+PART 5 — MEASURE (time saved AND quality gained)
+------------------------------------------------------------------------
+Baseline the MANUAL version first. Then time the AI-enhanced version
+INCLUDING verification. Track a quality signal too.
+
+Task measured: __________________________________________________________
+
+                          Manual (baseline)   AI-enhanced (with verify)
+ Time per occurrence:     ______              ______
+ Revisions to final:      ______              ______
+ Errors caught later:     ______              ______
+ Quality (1-5, my call):  ______              ______
+
+Honest time saved = (manual time) - (AI-enhanced time WITH verification)
+   = ______
+
+My verdict (KEEP / DROP / REDESIGN) and why in one line:
+_________________________________________________________________________
+
+
+------------------------------------------------------------------------
+PART 6 — GUARD THE SKILL
+------------------------------------------------------------------------
+Which task will I still do "cold" (by hand) sometimes, to keep the
+judgment sharp enough to catch the AI?  ________________________________
+How often? ____________
+========================================================================

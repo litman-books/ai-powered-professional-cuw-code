@@ -1,0 +1,68 @@
+========================================================================
+SLIDE-DECK BRIEF  —  Riverbend Regional Food Bank, Quarterly Board Update
+Prepared for: Maria Alvarez, Operations Coordinator
+Feed this ENTIRE brief to your AI slide tool. Then critique and fix by hand.
+========================================================================
+
+AUDIENCE
+  Nine volunteer board members. Smart, busy, NOT operations experts.
+  They fund the work and approve next quarter's budget. They skim.
+
+PURPOSE (the one thing they must leave knowing)
+  "We served more people with roughly the same money last quarter, and we
+  need a modest warehouse-cooler investment to keep it up next quarter."
+
+FORMAT
+  6 to 8 slides. 10-minute talk. Plain, warm, credible. Not flashy.
+  One clear headline per slide. Charts over paragraphs. Reading level: a
+  tired board member at 7 p.m.
+
+TONE
+  Grateful, honest, specific. No hype. Own the one soft number (see below).
+
+------------------------------------------------------------------------
+THE RAW CONTENT  (turn this into slides — do NOT invent beyond it)
+------------------------------------------------------------------------
+
+TITLE
+  Riverbend Regional Food Bank — Q2 Board Update
+
+THE HEADLINE NUMBERS (Q2 vs Q1)
+  - Households served:            8,410   (up from 7,220 in Q1, +16.5%)
+  - Meals distributed:            312,000 (up from 270,000, +15.6%)
+  - Cost per household served:    $34.10  (down from $37.80, -9.8%)
+  - Volunteer hours:              6,140   (down from 6,900, -11%)
+  - Total spend:                  $286,800 (up from $272,900, +5.1%)
+
+WHAT DROVE IT
+  - New Tuesday mobile-pantry stop at Eastside added ~900 households.
+  - A produce-rescue partnership cut food cost per meal.
+  - We did MORE with SLIGHTLY more money — efficiency, not just spending.
+
+THE HONEST SOFT SPOT (do not hide this)
+  - Volunteer hours fell 11%. Two long-time coordinators moved away.
+    We covered it with paid part-time help, which is part of the +5% spend.
+    This is not yet a crisis, but it is the trend to watch.
+
+THE ASK (the reason for the meeting)
+  - Approve $18,500 for a second walk-in cooler.
+  - Why: produce-rescue volume already exceeds current cold storage; we
+    turned away ~2 pallets of donated produce in June for lack of space.
+  - Payback: keeps cost-per-meal falling; protects the produce partnership.
+
+NEXT QUARTER (Q3) PLAN, ONE LINE EACH
+  - Launch a Thursday Eastside stop (mirror the Tuesday win).
+  - Recruit 15 volunteers to reverse the hours decline.
+  - Install the cooler by end of Q3 if approved tonight.
+
+CLOSE
+  - Thank the board. Restate the one thing: more people, steady cost, one
+    cooler to keep it going.
+
+------------------------------------------------------------------------
+NOTE TO THE PRESENTER (you, the human — the AI will not know these)
+  - The +5.1% spend WILL get a question. Have the volunteer-hours story ready.
+  - Do NOT let the tool round 8,410 to "8,000+" on a fundraising slide.
+  - Every number here is real. If the AI adds a statistic you did not give
+    it, that statistic is fabricated — cut it.
+========================================================================

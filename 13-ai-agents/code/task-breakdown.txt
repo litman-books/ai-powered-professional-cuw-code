@@ -1,0 +1,110 @@
+========================================================================
+TASK-BREAKDOWN WORKSHEET  —  before you hand a job to an agent
+The AI-Powered Professional  ·  Chapter 13
+========================================================================
+
+You do this worksheet FIRST, before you touch an agent. Its job is to
+force the two decisions a machine cannot make for you:
+
+  (1) What does "done and correct" mean here?  (the success criteria)
+  (2) Which steps may the agent do alone, which need my approval,
+      and which must I NEVER delegate?         (the autonomy line)
+
+A goal you have not decomposed is a goal you cannot supervise. Fill this
+out in plain language. No coding, no jargon required.
+
+------------------------------------------------------------------------
+A. THE GOAL
+------------------------------------------------------------------------
+The one outcome I want, in one sentence:
+  ____________________________________________________________________
+
+Who receives the result, and what would go wrong for THEM if it is
+wrong (your neighbor — the client, patient, student, boss, customer):
+  ____________________________________________________________________
+
+Is this genuinely multi-step (3+ steps) and worth delegating? Y / N
+Why an agent instead of a single chatbot prompt:
+  ____________________________________________________________________
+
+------------------------------------------------------------------------
+B. SUCCESS CRITERIA  (write these before the agent runs)
+------------------------------------------------------------------------
+The result is done and correct only when:
+  1. __________________________________________________________________
+  2. __________________________________________________________________
+  3. __________________________________________________________________
+
+How I will VERIFY each one (against what source / reality):
+  1. __________________________________________________________________
+  2. __________________________________________________________________
+  3. __________________________________________________________________
+
+------------------------------------------------------------------------
+C. DECOMPOSE THE GOAL INTO STEPS
+------------------------------------------------------------------------
+Break the goal into the actual sub-tasks. For each, note the TOOL the
+agent would need (web search, browse, read a file, draft, calendar,
+email, spreadsheet, etc.) and set the AUTONOMY LEVEL:
+
+   GREEN  = safe to delegate; reversible, low-stakes, checkable
+   YELLOW = agent may do it, but STOP and get my approval first
+   RED    = never delegate; a human does this, full stop
+            (irreversible, external, spends money, sends on my behalf,
+             touches private/confidential data, is my judgment call)
+
+ # | Sub-task                     | Tool needed        | G / Y / R
+---+------------------------------+--------------------+----------
+ 1 |                              |                    |
+ 2 |                              |                    |
+ 3 |                              |                    |
+ 4 |                              |                    |
+ 5 |                              |                    |
+
+------------------------------------------------------------------------
+D. THE APPROVAL GATES
+------------------------------------------------------------------------
+List every YELLOW step above. For each, write the exact question you
+want the agent to stop and ask you before it proceeds.
+
+  Gate 1: before it ____________, it must ask me: "____________________"
+  Gate 2: before it ____________, it must ask me: "____________________"
+  Gate 3: before it ____________, it must ask me: "____________________"
+
+------------------------------------------------------------------------
+E. THE NEVER-DELEGATE LIST  (the RED lines)
+------------------------------------------------------------------------
+Write the actions you will NOT let the agent take on its own, no matter
+how convenient. These are your non-negotiables for this task.
+
+  - __________________________________________________________________
+  - __________________________________________________________________
+  - __________________________________________________________________
+
+Money movement, sending anything externally on my behalf, sharing
+anything confidential, and any decision my name is on — default these
+to RED unless you can defend the exception in writing.
+
+------------------------------------------------------------------------
+F. WORKED EXAMPLE  (for reference — do not submit this one)
+------------------------------------------------------------------------
+GOAL: "Produce a one-page go/no-go brief on three new wholesale markets."
+
+ # | Sub-task                          | Tool           | Level
+---+-----------------------------------+----------------+------
+ 1 | Research each market's size/trend | web search     | GREEN
+ 2 | Pull 3 sources per market         | browse pages   | GREEN
+ 3 | Summarize into a comparison table | draft          | GREEN
+ 4 | Email the brief to my partner     | email          | RED
+ 5 | Recommend go/no-go                | (judgment)     | RED
+
+Success criteria: every number cites a real, dated source I can open;
+the table covers all three markets; the recommendation is MINE, written
+after I read the research — not the agent's.
+Gate: before drafting the recommendation, the agent stops and hands the
+research back to me. I write the call. I sign the brief.
+
+========================================================================
+Remember the spine rule: you choose the tool, you own the verdict.
+The agent decomposes and drafts; the autonomy line is yours to draw.
+========================================================================

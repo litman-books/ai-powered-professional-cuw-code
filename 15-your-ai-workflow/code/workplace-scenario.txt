@@ -1,0 +1,120 @@
+========================================================================
+  WORKPLACE SCENARIO — "Maria's Week"
+  Chapter 15 — Building Your AI-Enhanced Workflow
+  A fictional but realistic case to analyze end to end.
+  All names, companies, and details are invented.
+========================================================================
+
+WHO
+----
+Maria Alvarez is the operations coordinator at Cedar Ridge Insurance, a
+mid-size regional agency (about 40 employees) that sells and services home,
+auto, and small-business policies. Maria is not technical. She is organized,
+trusted, and stretched thin. She has a free ChatGPT account, her employer
+pays for a Microsoft 365 subscription with Copilot available "somewhere in
+the menus," and IT has a written policy she has half-read.
+
+Cedar Ridge's IT policy says, in part:
+  - Client policy numbers, dates of birth, driver's license numbers,
+    home addresses, and any health-related claim detail are "Protected
+    Client Information" and may NOT be entered into external/consumer AI
+    tools.
+  - Internal, non-client documents (agendas, templates, general drafts)
+    are fine to use with AI.
+  - Any client-facing communication must be reviewed by a human before it
+    is sent.
+
+
+MARIA'S RECURRING WEEK
+----------------------
+These are the tasks that repeat, with her rough honest time estimates.
+
+1) MONDAY ALL-HANDS SUMMARY  (weekly, ~45 min)
+   The whole agency meets Monday at 9:00 for 30 minutes. Maria takes notes
+   and, by lunch, sends a summary email: decisions made, action items with
+   owners and due dates, and announcements. She usually records the meeting
+   (with everyone's knowledge) on a transcription tool the office already
+   uses. Half her 45 minutes is spent re-listening and formatting. She
+   sometimes misses an action item, which causes a dropped task later.
+
+2) CLIENT EMAIL TRIAGE & REPLIES  (daily, ~90 min/day)
+   Maria's shared inbox gets 30-50 emails a day: routine questions ("How do
+   I add a driver?"), document requests, billing confusion, and the
+   occasional angry complaint ("Nobody has called me back in a week"). Most
+   are routine and repetitive. A few need judgment: deciding when a
+   complaint must be escalated to a manager, or when a coverage question is
+   too important to answer without an agent's review. Many emails contain
+   client policy numbers and personal details.
+
+3) MONTHLY RENEWALS REPORT  (monthly, ~3 hours)
+   Once a month Maria builds a renewals report from a messy spreadsheet the
+   billing system exports. The raw sheet has inconsistent column names,
+   blank cells, and duplicate rows. She cleans it, computes which policies
+   renew in the next 30/60/90 days and their premium totals, and writes a
+   one-page narrative summary for the owners. The numbers must be exactly
+   right -- the owners make staffing and outreach decisions from them. The
+   spreadsheet contains client names, policy numbers, and premium amounts.
+
+4) NEW-HIRE ONBOARDING NOTES  (per hire, a few times a year, ~2 hours each)
+   When someone joins, Maria writes a personalized onboarding note: which
+   systems to request access to, who to meet, first-week schedule, and a
+   friendly welcome. The structure is nearly identical every time; only the
+   role, the name, and a few specifics change. It is not confidential.
+
+5) QUARTERLY VENDOR CHECK-IN PREP  (quarterly, ~1 hour)
+   Before each vendor call, Maria skims a long PDF the vendor sends (30-60
+   pages of usage stats and product updates) and pulls out the 5-6 things
+   worth discussing. The PDF is not confidential. She often runs low on time
+   and walks in under-prepared.
+
+
+PRESSURES & COMPLICATIONS (the realistic mess)
+----------------------------------------------
+  - Maria is tempted, on a busy day, to paste a whole client email --
+    policy number and all -- into her personal ChatGPT to "just draft a
+    quick reply." It would be faster. It would also violate the policy in
+    #2 and #3's Protected Client Information rule.
+  - Last quarter she cut her renewals-report time by using AI to write the
+    narrative -- but she did NOT check one figure, an AI-transposed premium
+    total went to the owners, and it caused an awkward planning conversation.
+  - She has started letting AI draft nearly everything and has noticed she
+    is slower than she used to be at writing a clean summary from scratch --
+    which worries her, because she is the one who has to catch the AI's
+    mistakes.
+  - Her manager just asked: "Can you show me, with numbers, whether all this
+    AI stuff is actually saving us time -- or just making us sloppy faster?"
+
+
+YOUR JOB (when you analyze this for the lab)
+--------------------------------------------
+Treat this scenario the way the chapter treated it in Section 15.8, but do
+your OWN analysis and defend your OWN calls:
+
+  a) MAP     — restate her recurring tasks; note frequency, time, and shape
+               (rule-shaped vs judgment-shaped).
+  b) TRIAGE  — sort every task (and, where a task is a blend, every part of
+               it) into SELF / ASSIST / NEVER. The Protected Client
+               Information is the sharpest test -- get that line right.
+  c) AUTOMATE— identify her strongest automation opportunity and say why,
+               using the four-part test (recurring / rule-shaped /
+               verifiable / bounded). Say what stays a human-led one-off.
+  d) MODELS  — choose a model tier per major step and justify it (cheap for
+               simple/bulk, balanced for everyday, frontier/long-context for
+               the messy spreadsheet). Flag any figure as a mid-2026
+               snapshot.
+  e) COMPOSE — sketch one workflow (e.g., the Monday summary or the renewals
+               report) as a relay of tools with a human-verify step at every
+               seam. Name where a mistake would otherwise slip through.
+  f) MEASURE — propose exactly what Maria should measure to answer her
+               manager's question -- time saved AND quality gained -- and how
+               she would baseline it honestly.
+  g) GUARD   — recommend one concrete habit to protect Maria against the
+               skill atrophy she is already feeling.
+  h) FIX THE MESS — for each of the three complications above (the paste
+               temptation, the unchecked premium total, the atrophy), name
+               the specific pitfall from 15.10 and the fix.
+
+Write it as a short memo Maria's manager could actually read. The grade is
+in the JUDGMENT: the confidential-data line, the assist-vs-never calls, and
+whether your workflow keeps a human where the verdict lives.
+========================================================================

@@ -1,0 +1,83 @@
+=============================================================
+IMAGE-RIGHTS & DISCLOSURE CHECKLIST
+For any AI-generated image before you publish it
+Snapshot: mid-2026. Tools and policies change -- re-confirm on the
+vendor's site and, for anything high-stakes, with a real lawyer.
+This worksheet is a discipline, not legal advice.
+=============================================================
+
+Fill one copy of this out for the image SET you are handing back.
+Answer honestly. A "NO" or "NOT SURE" is not a failure -- it tells
+you what to fix or disclose before the image goes out the door.
+
+
+SECTION 1 -- WHAT IS THIS FOR?
+------------------------------
+[ ] Purpose (circle one):  personal  /  internal  /  PUBLIC/COMMERCIAL
+[ ] If commercial: is this promoting a product, service, or brand? .... Y / N
+[ ] Where will it appear? (flyer / social / email / web / ad) ...........
+    -> Commercial + public use is the highest-stakes case. Treat it so.
+
+
+SECTION 2 -- DOES THE TOOL LET ME USE THIS COMMERCIALLY?
+--------------------------------------------------------
+[ ] Which tool + model did I use? (name + version, e.g. "GPT Image 2
+    via BoodleBox", "Adobe Firefly 4", mid-2026) ........................
+[ ] Does its license/terms permit COMMERCIAL use of my output? ...... Y / N / ?
+[ ] Am I on a plan/tier that grants those rights (free vs paid)? .... Y / N / ?
+[ ] Does the tool offer any IP INDEMNIFICATION (the vendor stands
+    behind commercial use)?  (e.g. Firefly does; most do not) ....... Y / N / ?
+[ ] Was the model trained on LICENSED / public-domain data, or is
+    that unknown/contested? ......................................... licensed / unknown
+    -> If commercial use matters and you're unsure, prefer a tool built
+       for commercial safety, and keep the receipts (plan, date, terms).
+
+
+SECTION 3 -- DOES IT DEPICT A REAL PERSON OR PROTECTED THING?
+------------------------------------------------------------
+[ ] Does the image show a recognizable REAL person's face/likeness? . Y / N
+[ ] If yes, do I have that person's written CONSENT to depict them? . Y / N
+[ ] Does it show a real named celebrity/public figure? .............. Y / N
+    -> If yes, stop. You almost certainly may not.
+[ ] Any visible LOGOS, trademarks, brand characters, or protected
+    designs (even accidental, in the background)? .................... Y / N
+[ ] Any real, identifiable private property or location presented as
+    something it isn't? ............................................. Y / N
+
+
+SECTION 4 -- IS IT HONEST? (the false-witness test)
+---------------------------------------------------
+[ ] Could a reasonable viewer mistake this for a real, un-generated
+    photograph of a real event/person/product? ...................... Y / N
+[ ] Does it MISREPRESENT anything -- show a product we don't sell, a
+    result we can't deliver, a place that isn't ours, a "customer"
+    who never existed? .............................................. Y / N
+[ ] Is it being used as EVIDENCE, news, testimony, or proof of a real
+    event? (If yes: do not use a generated image. Full stop.) ....... Y / N
+    -> If a viewer would be deceived to their cost, you are bearing
+       false witness with a picture. Fix it or don't use it.
+
+
+SECTION 5 -- PROVENANCE & DISCLOSURE
+------------------------------------
+[ ] Does the exported file carry Content Credentials / C2PA metadata
+    (a "made with AI" nutrition label)? ............................. Y / N / ?
+[ ] Did any step (screenshot, re-upload, crop) STRIP that metadata? . Y / N / ?
+[ ] Is there an invisible watermark (e.g. SynthID) that may remain
+    even if metadata is stripped? ................................... Y / N / ?
+[ ] HOW will we disclose this is AI-generated to our audience?
+    (caption "AI-generated image", a note in the post, a footer line)
+    -> Write the exact disclosure text here: ........................
+[ ] Does our organization / client / platform have a policy that
+    REQUIRES a specific label? (check before publishing) ............ Y / N / ?
+
+
+THE VERDICT (a human writes this line -- not the tool)
+------------------------------------------------------
+Decision (circle):   PUBLISH AS-IS   /   PUBLISH WITH DISCLOSURE   /   DO NOT USE
+Disclosure we will attach: .............................................
+One-line reason for the decision: ......................................
+Accountable human (your name): .........................................
+Date: ..................................................................
+
+You choose the tool. You own the verdict.

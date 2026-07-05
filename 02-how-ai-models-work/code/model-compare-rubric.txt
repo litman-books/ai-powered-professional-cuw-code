@@ -1,0 +1,90 @@
+================================================================
+MODEL COMPARISON RUBRIC — score three assistants on ONE prompt
+The AI-Powered Professional — Chapter 2 / Project P2
+================================================================
+
+Fill this in by hand (or copy it into a spreadsheet / doc). Send ONE
+prompt from benchmark-prompts.txt to all three assistants, then score
+each answer on the four dimensions below. Same prompt, same rubric,
+three columns. Then verify the facts and declare a winner.
+
+Prompt used (paste the exact text): _______________________________
+_________________________________________________________________
+Date run (models change weekly): __________________________________
+Which model/bot label each answer came from (in BoodleBox every reply
+is labeled — e.g. ChatGPT 5.5, Claude 4.7 Opus, Gemini 3.1 Pro; pin
+the version you saw, not the marketing name):
+  ChatGPT: ___________  Claude: ___________  Gemini: ___________
+
+----------------------------------------------------------------
+THE FOUR DIMENSIONS (score each 1-5; see the scale at the bottom)
+----------------------------------------------------------------
+
+  ACCURACY   — Are the factual claims TRUE and honestly hedged?
+               (You must VERIFY these, not take them on trust.)
+  USEFULNESS — Does the answer actually help you do the real task?
+  TONE       — Is the voice right for the audience and purpose?
+  FORMAT     — Did it follow the requested structure / length?
+
+----------------------------------------------------------------
+SCORE TABLE
+----------------------------------------------------------------
+
+  Dimension     | ChatGPT | Claude | Gemini | Notes (why this score)
+  --------------|---------|--------|--------|----------------------
+  Accuracy (1-5)|         |        |        |
+  Usefulness    |         |        |        |
+  Tone          |         |        |        |
+  Format        |         |        |        |
+  --------------|---------|--------|--------|----------------------
+  TOTAL (/20)   |         |        |        |
+
+----------------------------------------------------------------
+FACT-CHECK LOG  (the part that separates a pro from a fan)
+----------------------------------------------------------------
+List every CHECKABLE claim each model made (names, numbers, dates,
+quotes, citations, prices) and the result of your verification.
+
+  Model   | Claim as stated | Verified? (Y/N) | Source you checked
+  --------|-----------------|-----------------|-------------------
+          |                 |                 |
+          |                 |                 |
+          |                 |                 |
+          |                 |                 |
+
+Hallucinations found (fabricated or wrong claims): ________________
+Which model hedged honestly when unsure? _________________________
+
+----------------------------------------------------------------
+LENGTH / COST AWARENESS  (Week 2 concept — optional for Normal)
+----------------------------------------------------------------
+Roughly how long was each answer? Longer answers cost more tokens
+(and output tokens cost several times input, mid-2026). Note if any
+model padded the answer without adding value.
+
+  ChatGPT length: ______  Claude length: ______  Gemini length: ____
+  Any model needlessly long? ______________________________________
+
+----------------------------------------------------------------
+VERDICT
+----------------------------------------------------------------
+Winner for THIS prompt: ___________________________________________
+The single most important reason (tie it to a score above):
+_________________________________________________________________
+_________________________________________________________________
+One task where a DIFFERENT model would have won:
+_________________________________________________________________
+
+----------------------------------------------------------------
+SCORING SCALE (1-5) for each dimension
+----------------------------------------------------------------
+  5 = Excellent. Fully correct/useful/on-tone/on-format; nothing to fix.
+  4 = Strong. Minor issue you'd tidy in seconds.
+  3 = Usable. Real problems; needs meaningful editing before you'd send.
+  2 = Weak. Missed the point, wrong facts, or ignored the format.
+  1 = Bad/unusable. Fabricated, off-task, or unfit to send.
+
+Reminder: a fluent answer is where you START checking, not where you
+stop. Confidence is not correctness. You choose the tool; you own
+the verdict.
+================================================================

@@ -1,0 +1,74 @@
+================================================================
+SUMMARY GROUNDING CHECKLIST
+A worksheet for checking an AI summary against its source, sentence by sentence.
+Chapter 7 — The AI-Powered Professional
+================================================================
+
+WHY THIS EXISTS
+---------------
+An AI summary is a claim, not a fact. "Grounding" means proving that each
+sentence of the summary is actually supported by the source document — by
+finding the exact words in the source that back it up. If you cannot find the
+support, the sentence is unsupported, and an unsupported sentence in a summary
+is a hallucination wearing a summary's clothes.
+
+You choose the tool. You own the verdict. The AI wrote the summary; YOU decide
+what goes in front of your boss.
+
+
+HOW TO USE THIS SHEET
+---------------------
+1. Number every sentence in the AI summary (1, 2, 3, ...).
+2. For each sentence, open the SOURCE and hunt for the words that support it.
+3. Mark the sentence with one verdict:
+      SUPPORTED  — the source clearly says this; you found the quote.
+      PARTIAL    — partly right, but a number/name/claim is off or overstated.
+      UNSUPPORTED— you cannot find it in the source, or the source says otherwise.
+4. Paste the SOURCE QUOTE (or "none found") in the evidence column.
+5. If PARTIAL or UNSUPPORTED, name the failure type (see the list below).
+6. Write the CORRECTED sentence.
+
+
+THE SIX FAILURE TYPES (name the sin, then fix it)
+-------------------------------------------------
+[F1] Fabricated number      — a figure that isn't in the source (e.g., wrong %).
+[F2] Magnitude/decimal error— right figure, wrong scale ($2.1M read as $21M).
+[F3] Wrong name/identifier  — a program, person, date, or place renamed.
+[F4] Fabricated citation    — a source, study, or author the document never names.
+[F5] Added claim / opposite — a recommendation or conclusion the source never made
+                              (or the reverse of what it made).
+[F6] Overstated causation   — turns "moved alongside" into "was caused by."
+
+
+THE WORKSHEET
+-------------
+Copy this block into your document (or a spreadsheet) and fill one row per
+summary sentence.
+
+  Sentence #: ____
+  Summary sentence: ______________________________________________
+  Verdict (SUPPORTED / PARTIAL / UNSUPPORTED): ____
+  Source quote (or "none found"): ________________________________
+  Failure type (F1-F6, if any): ____
+  Corrected sentence: ____________________________________________
+
+  --------------------------------------------------------------
+
+  Sentence #: ____
+  Summary sentence: ______________________________________________
+  Verdict (SUPPORTED / PARTIAL / UNSUPPORTED): ____
+  Source quote (or "none found"): ________________________________
+  Failure type (F1-F6, if any): ____
+  Corrected sentence: ____________________________________________
+
+
+TWO RULES BEFORE YOU SIGN
+-------------------------
+1. "Sounds right" is not evidence. If you cannot point to the words in the
+   source, the verdict is UNSUPPORTED — no matter how reasonable it sounds.
+2. A single fabricated number or citation poisons the whole summary's
+   credibility. Find it, fix it, and note it, or do not send the summary.
+
+================================================================
+END OF CHECKLIST
+================================================================

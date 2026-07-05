@@ -1,0 +1,142 @@
+=======================================================================
+  MY PROMPT LIBRARY — STARTER TEMPLATE
+  The AI-Powered Professional · Chapter 12 · Project P12
+-----------------------------------------------------------------------
+  This is a plain-text starter you can paste into a Google Doc, a
+  OneNote/Notion page, a Word file, or a shared sheet. It is NOT code.
+  You do not run it. You COPY a template, FILL the {{placeholders}},
+  and PASTE the result into BoodleBox (or ChatGPT / Claude / Gemini).
+
+  HOW TO USE
+  1. Keep one entry per reusable prompt, using the FIELDS below.
+  2. Anything in {{double braces}} is a blank you fill in each time.
+  3. Give every entry a short, findable NAME and a ROLE + TASK tag.
+  4. When you improve a prompt, bump its VERSION and date it.
+  5. Test each template against prompt-quality-rubric.txt before you
+     call it "done."
+
+  THE FIELDS (copy this block for every new prompt)
+  -----------------------------------------------------------------
+  NAME:        <short, searchable, e.g. "Reply — unhappy customer">
+  ROLE/TASK:   <who + what, e.g. "Support · draft a reply">
+  WHEN TO USE: <the trigger, e.g. "a refund complaint arrives">
+  MODEL HINT:  <a tier, not a promise — e.g. "any general
+               assistant is fine; a flagship for tricky tone.
+               As of mid-2026 the free tiers handle this.">
+  VARIABLES:   <list every {{placeholder}} and what goes in it>
+  TEMPLATE:    <the reusable prompt, with {{placeholders}}>
+  EXAMPLE:     <one filled-in example so future-you remembers>
+  QUALITY:     <notes: what to check in the output before you send>
+  VERSION:     <v1, v2 ... + date, e.g. "v2 — 2026-07-01">
+  -----------------------------------------------------------------
+
+=======================================================================
+  EXAMPLE 1
+=======================================================================
+NAME:        Reply — unhappy customer
+ROLE/TASK:   Customer support · draft a reply email
+WHEN TO USE: A frustrated or complaining message needs a calm, useful answer.
+MODEL HINT:  Any general assistant (ChatGPT / Claude / Gemini). For a
+             delicate, high-stakes account, reach for a flagship tier.
+VARIABLES:   {{customer_message}} = paste their exact words
+             {{tone}} = e.g. warm-and-apologetic / brisk-and-professional
+             {{what_we_can_offer}} = the real remedy you are allowed to give
+             {{sign_off_name}} = your name / team name
+TEMPLATE:
+  You are an experienced customer-support specialist for a small business.
+  A customer wrote the message below. Draft a reply in a {{tone}} tone.
+  Acknowledge their frustration first, do not make promises beyond
+  {{what_we_can_offer}}, keep it under 150 words, and end with a clear
+  next step. Sign it "{{sign_off_name}}."
+
+  Customer message:
+  """
+  {{customer_message}}
+  """
+EXAMPLE:     tone = warm-and-apologetic; what_we_can_offer = "a full
+             refund within 5 business days"; sign_off_name = "The Riverside Team"
+QUALITY:     Check: Did it invent a policy we don't have? Is the remedy
+             exactly what I allowed? Would I be comfortable if the customer
+             screenshotted this reply? I OWN the final send.
+VERSION:     v1 — 2026-07-01
+
+=======================================================================
+  EXAMPLE 2
+=======================================================================
+NAME:        Meeting notes -> action items
+ROLE/TASK:   Any role · turn a messy transcript into decisions + owners
+WHEN TO USE: After a meeting where you have a raw transcript or rough notes.
+MODEL HINT:  Any general assistant with a decent context window handles a
+             normal meeting. For a 90-minute transcript, prefer a flagship
+             with a large context window (as of mid-2026, ~1M tokens on
+             some flagships — verify before you rely on it).
+VARIABLES:   {{transcript}} = paste the raw notes / transcript
+             {{my_name}} = so it can flag YOUR action items
+TEMPLATE:
+  Read the meeting notes below. Produce three sections:
+  1) DECISIONS MADE (bullet list, one line each)
+  2) ACTION ITEMS (a table: Owner | Task | Due date if stated)
+  3) OPEN QUESTIONS (anything left unresolved)
+  Do not invent owners or dates. If an owner or date was not stated,
+  write "unspecified." Put a star (*) next to any action owned by {{my_name}}.
+
+  Notes:
+  """
+  {{transcript}}
+  """
+EXAMPLE:     my_name = "Dana"; transcript = <paste 40-line raw transcript>
+QUALITY:     Check every OWNER and DUE DATE against the source. The model
+             will sometimes "helpfully" assign an owner nobody named. That
+             is a fabrication. I verify each commitment before I circulate.
+VERSION:     v3 — 2026-06-28 (added the "do not invent owners" guardrail)
+
+=======================================================================
+  EXAMPLE 3
+=======================================================================
+NAME:        Summarize for a specific reader
+ROLE/TASK:   Any role · summarize a long document for one audience
+WHEN TO USE: A long report/PDF/policy you must digest for someone specific.
+MODEL HINT:  Upload the document to a general assistant that accepts files,
+             or paste the text. A source-grounded tool (e.g. a document-Q&A
+             mode) reduces fabrication. Verify quotes against the source.
+VARIABLES:   {{audience}} = e.g. "my time-poor manager" / "a new hire"
+             {{length}} = e.g. "5 bullets" / "one paragraph"
+             {{document}} = paste or attach the source
+TEMPLATE:
+  Summarize the document below for {{audience}} in {{length}}. Lead with the
+  single most important takeaway. Use only information present in the source;
+  if something is unclear or missing, say so rather than guessing. After the
+  summary, list any claim you were NOT able to confirm from the text.
+
+  Document:
+  """
+  {{document}}
+  """
+EXAMPLE:     audience = "my time-poor manager"; length = "5 bullets"
+QUALITY:     Read the "could not confirm" list first — that is where
+             hallucinations hide. Spot-check two summary claims against the
+             source. If it summarized something the document never said, the
+             template needs a stronger grounding instruction.
+VERSION:     v2 — 2026-06-20
+
+=======================================================================
+  YOUR TEMPLATES BELOW (copy the FIELDS block and fill it in)
+=======================================================================
+NAME:
+ROLE/TASK:
+WHEN TO USE:
+MODEL HINT:
+VARIABLES:
+TEMPLATE:
+EXAMPLE:
+QUALITY:
+VERSION:
+
+-----------------------------------------------------------------------
+  A NOTE ON SAFETY (read once, remember always):
+  Never bake real secrets into a template. No customer names, no patient
+  data, no passwords, no confidential figures. A template is a PUBLIC
+  shape; the private details go in the {{blanks}} at the moment of use,
+  and even then only what your organization's policy allows. See the
+  course's Appendix C on Responsible & Ethical AI Use.
+-----------------------------------------------------------------------

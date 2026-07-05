@@ -1,0 +1,101 @@
+====================================================================
+THE SIX TYPES OF AI — A ONE-PAGE CHEAT SHEET
+The AI-Powered Professional · Chapter 1 · Litman Books
+Snapshot: as of mid-2026. Tool names/versions move fast — verify.
+====================================================================
+
+HOW TO READ THIS SHEET
+----------------------
+These six "types" are not airtight scientific categories. They are
+practical LENSES. One real product is usually several at once: the
+assistant on your phone can be conversational AND multimodal AND
+agentic in the same minute. The point of naming the type is not to
+win an argument — it is to know WHAT THE THING IS DOING so you know
+WHAT TO VERIFY. Different types fail in different ways.
+
+The cleanest real line is between PREDICTIVE (it scores or sorts
+something that already exists) and GENERATIVE (it makes something
+new). The other four are mostly flavors of generative systems.
+
+--------------------------------------------------------------------
+1) PREDICTIVE AI  —  "It guesses a label or a number."
+--------------------------------------------------------------------
+Does:      Learns patterns from past data, then forecasts, scores,
+           ranks, or classifies new cases. Output is a judgment about
+           existing data, not new content.
+Everyday:  Your bank texts "Was this you?" on a strange charge.
+           The spam folder. The "you might also like" row.
+Products:  Fraud detection, credit scoring, weather models,
+           recommendation feeds, predictive maintenance.
+Watch for: Bias baked into old data; a confident score on a case
+           it never really saw before.
+
+--------------------------------------------------------------------
+2) GENERATIVE AI  —  "It makes new content."
+--------------------------------------------------------------------
+Does:      Produces original-looking text, images, audio, video, or
+           code from a prompt.
+Everyday:  You type "write a thank-you note to a donor" and get a
+           finished draft. You type "a golden retriever as an
+           astronaut" and get a picture.
+Products:  ChatGPT / Claude / Gemini (text); image and video tools.
+Watch for: HALLUCINATION — fluent, confident, and simply wrong. The
+           tone never tells you which sentences are true.
+
+--------------------------------------------------------------------
+3) CONVERSATIONAL AI  —  "It talks back, in turns."
+--------------------------------------------------------------------
+Does:      Holds a natural back-and-forth: remembers the last few
+           messages, answers follow-ups, asks clarifying questions.
+Everyday:  The chat window where you can say "make it shorter" and
+           "now more formal" without re-explaining everything.
+Products:  The chat mode of ChatGPT / Claude / Gemini; voice
+           assistants; customer-service chatbots.
+Watch for: It sounds like a person, so you trust it like a person.
+           It is a very good pattern-matcher, not a colleague.
+
+--------------------------------------------------------------------
+4) MULTIMODAL AI  —  "It reads and makes more than text."
+--------------------------------------------------------------------
+Does:      Takes in and/or produces several kinds of media — text,
+           images, audio, video — in one system.
+Everyday:  Snap a photo of a rash, a menu, or a broken part and ask
+           "what am I looking at / what do I do?" Point it at a
+           chart and ask what it says.
+Products:  Assistants that accept photos, screenshots, PDFs, voice.
+Watch for: It can misread an image as confidently as it misreads a
+           question. Verify what it claims to "see."
+
+--------------------------------------------------------------------
+5) AGENTIC AI  —  "It takes multi-step action toward a goal."
+--------------------------------------------------------------------
+Does:      Plans a sequence of steps, uses tools (browse, click,
+           fill forms, send), and works toward an outcome with less
+           step-by-step hand-holding.
+Everyday:  "Find three dog-friendly hotels near the venue under $180
+           and put them in a table" — and it goes and does it.
+Products:  "Agent" / "computer use" modes; research agents that
+           browse many sources and write a cited report.
+Watch for: It can take REAL ACTIONS (spend, send, book). Delegation
+           never transfers accountability. Keep a human approval
+           gate on anything that costs money or leaves the building.
+
+--------------------------------------------------------------------
+6) PHYSICAL / ROBOTIC AI  —  "It has a body in the world."
+--------------------------------------------------------------------
+Does:      AI embodied in hardware that senses and acts on the
+           physical world.
+Everyday:  The robot vacuum. The self-driving feature. The warehouse
+           picker. Early humanoid robots.
+Products:  Autonomous vehicles, factory/warehouse robots, drones,
+           surgical-assist systems.
+Watch for: Failures here can hurt people or property, not just an
+           inbox. Highest stakes, strictest oversight.
+
+====================================================================
+THE ONE RULE THAT SURVIVES EVERY VERSION NUMBER
+--------------------------------------------------------------------
+You choose the tool. You own the verdict.
+AI drafts, generates, and accelerates. The professional decides,
+verifies, and is accountable. AI is an assistant, not an authority.
+====================================================================

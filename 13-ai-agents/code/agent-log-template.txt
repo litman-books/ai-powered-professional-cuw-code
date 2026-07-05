@@ -1,0 +1,149 @@
+========================================================================
+AGENT LOG  —  Project 13: Delegate to an Agent
+The AI-Powered Professional
+========================================================================
+
+An agent-log is the record of a delegation. It is the thing you can hand
+to your boss, your client, or an auditor and say: "Here is exactly what I
+asked the machine to do, what it did, where it was wrong, where I stepped
+in, and why the final result is mine." It is the paper trail of your
+accountability. Fill in EVERY section. "N/A" is an answer; a blank is not.
+
+Keep this file in plain language. You do not need to be technical. You
+need to be honest and specific.
+
+------------------------------------------------------------------------
+0. HEADER  (who, what, when)
+------------------------------------------------------------------------
+Your name (the accountable human): ____________________________________
+Date / session: _______________________________________________________
+Agent / tool used (name + mode): ______________________________________
+   e.g. "BoodleBox — BoodleBot orchestration (@boodlebot)"  /
+        "ChatGPT, agent mode"  /  "Gemini Deep Research"  /
+        "Claude, with web + file tools"  /  "Perplexity Deep Research"
+Model, if shown (pin the ID, date it): ________________________________
+   e.g. "gpt-5.5, mid-2026"  /  "claude-opus-4-8, mid-2026" (hedge; verify)
+
+------------------------------------------------------------------------
+1. THE GOAL I DELEGATED
+------------------------------------------------------------------------
+In one sentence, the outcome I wanted:
+  ____________________________________________________________________
+
+Why this was a good candidate for an agent (multi-step? research-heavy?
+repetitive?):
+  ____________________________________________________________________
+
+What "done and correct" looks like (my success criteria — write these
+BEFORE you run the agent, so the agent cannot define success for you):
+  - __________________________________________________________________
+  - __________________________________________________________________
+  - __________________________________________________________________
+
+------------------------------------------------------------------------
+2. THE PLAN THE AGENT PROPOSED
+------------------------------------------------------------------------
+Most agents show you a plan before they act. Paste or paraphrase it.
+If it did not show a plan, say so — and treat that as a yellow flag.
+
+  Step 1: ____________________________________________________________
+  Step 2: ____________________________________________________________
+  Step 3: ____________________________________________________________
+  Step 4: ____________________________________________________________
+  Step 5: ____________________________________________________________
+
+Did the plan match how I would have done it? Where did it differ?
+  ____________________________________________________________________
+
+------------------------------------------------------------------------
+3. WHAT THE AGENT ACTUALLY DID  (step by step, with tools)
+------------------------------------------------------------------------
+One row per real step the agent took. "Tool" = what it reached for:
+web search, browse a page, open a file, run a search, draft, calendar,
+email, spreadsheet, etc.
+
+ # | What it did                        | Tool it used        | Result
+---+------------------------------------+---------------------+--------
+ 1 |                                    |                     |
+ 2 |                                    |                     |
+ 3 |                                    |                     |
+ 4 |                                    |                     |
+ 5 |                                    |                     |
+
+------------------------------------------------------------------------
+4. WHERE IT WAS WRONG  (this section is the whole point)
+------------------------------------------------------------------------
+Every error, with the correction. Be specific. "It made things up" is
+not a finding; "It cited a 2024 report that does not exist" is.
+
+ Error 1
+   What it got wrong: _________________________________________________
+   How I caught it:   _________________________________________________
+   The correction:    _________________________________________________
+   Class (circle):  fabricated fact / wrong source / outdated /
+                    misread source / wrong math / unsafe action / other
+
+ Error 2
+   What it got wrong: _________________________________________________
+   How I caught it:   _________________________________________________
+   The correction:    _________________________________________________
+   Class: ____________________________________________________________
+
+ Error 3
+   What it got wrong: _________________________________________________
+   How I caught it:   _________________________________________________
+   The correction:    _________________________________________________
+   Class: ____________________________________________________________
+
+(If you found zero errors, be suspicious. Say what you checked and how.)
+
+------------------------------------------------------------------------
+5. WHERE I INTERVENED  (the approval gates)
+------------------------------------------------------------------------
+Every point where I stopped the agent, approved, denied, redirected, or
+took the action myself instead of letting it act.
+
+ Intervention 1
+   The agent wanted to: _______________________________________________
+   I chose to (approve / deny / edit / do it myself): ________________
+   Why: ______________________________________________________________
+
+ Intervention 2
+   The agent wanted to: _______________________________________________
+   I chose to: _______________________________________________________
+   Why: ______________________________________________________________
+
+Any consequential action (send an email, book something, spend money,
+delete something, share a file externally) that I did NOT let the agent
+do on its own — and why:
+   ____________________________________________________________________
+
+------------------------------------------------------------------------
+6. VERIFICATION  (did I check the output against reality?)
+------------------------------------------------------------------------
+List the key claims / facts / numbers in the final result and how you
+verified each. Mark SUPPORTED (you confirmed it) or UNSUPPORTED.
+
+ Claim / fact                         | How I checked        | S / U
+--------------------------------------+----------------------+------
+                                      |                      |
+                                      |                      |
+                                      |                      |
+
+------------------------------------------------------------------------
+7. THE FINAL VERDICT  (I own this)
+------------------------------------------------------------------------
+What I changed before I would put my name on it:
+  ____________________________________________________________________
+
+Time the agent saved me (honest estimate): _______________
+Would I delegate this task to an agent again? Under what guardrails?
+  ____________________________________________________________________
+
+ACCOUNTABILITY STATEMENT
+  I reviewed the agent's work, corrected what was wrong, and I stand
+  behind the final deliverable as my own. The agent assisted; the
+  judgment and the account are mine.
+
+  Signed: ______________________________   Date: ________________
+========================================================================

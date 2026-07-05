@@ -1,0 +1,117 @@
+DATA REDLINE — WORKPLACE SNIPPETS TO CLASSIFY
+The AI-Powered Professional · Chapter 14 · Privacy, Ethics, and Organizational Policy
+
+------------------------------------------------------------------------------
+HOW TO USE THIS FILE
+------------------------------------------------------------------------------
+Below are 12 short, realistic things that cross a working professional's desk in
+a normal week. Imagine you are about to paste one of them into a PUBLIC consumer
+AI chatbot (a free or personal-tier ChatGPT / Claude / Gemini account) to get
+help — rewrite it, summarize it, translate it, draft a reply.
+
+For EACH snippet, decide one of three verdicts and write a one-line reason:
+
+  SAFE    — no confidential, personal, or regulated data; fine to paste as-is
+            into a public tool.
+  REDACT  — useful to paste ONLY after you remove or replace the sensitive
+            parts (names, IDs, numbers, the client's identity) with
+            placeholders like [CLIENT], [NAME], [ACCOUNT #]. The *shape* of the
+            task is fine; the *specifics* are not.
+  NEVER   — do not paste this into a public tool in any form. It is regulated,
+            secret, or identifying enough that redaction cannot save it. Use an
+            approved enterprise tool, a private/local model, or do it by hand.
+
+There is no answer key in this file on purpose — the judgment IS the rep.
+Bring your verdicts to the Graded Lab on the Chapter 14 exercises page.
+
+==============================================================================
+SNIPPET 1 — Draft blog post (marketing)
+------------------------------------------------------------------------------
+"Spring is here, and so is our biggest sale of the year! From April 1–15, take
+25% off all outdoor furniture. Visit any of our stores or shop online. Terms
+apply." Please make this punchier and add three subject-line options.
+
+==============================================================================
+SNIPPET 2 — Customer support email thread
+------------------------------------------------------------------------------
+From: maria.delgado@example.com
+Subject: Order #48812 — wrong size
+"Hi, I ordered the blue jacket (order #48812) to 4417 Linden Ave, Apt 3B,
+Columbus OH 43201, and got a medium instead of a large. My card ending 4092 was
+charged twice. Call me at (614) 555-0173." — Please write a warm apology reply.
+
+==============================================================================
+SNIPPET 3 — Board memo marked confidential
+------------------------------------------------------------------------------
+CONFIDENTIAL — DO NOT DISTRIBUTE
+"We are in advanced talks to acquire Rivermark Logistics for approximately
+$40M, targeting a signed LOI by Q3. Layoffs in the overlapping Ops team are
+likely." Summarize this into three bullets for the exec pre-read.
+
+==============================================================================
+SNIPPET 4 — Meeting transcript (internal project)
+------------------------------------------------------------------------------
+"Okay so for the Q3 launch, Priya owns the landing page, Dev owns pricing, and
+we're slipping the ship date to Sept 12. Let's not tell Sales until the 30th."
+Turn this into structured meeting notes with owners and due dates.
+
+==============================================================================
+SNIPPET 5 — Spreadsheet rows (HR)
+------------------------------------------------------------------------------
+Name,SSN,Salary,Review
+Jordan Alvarez,412-55-9981,88000,"Exceeds — recommend 6% raise"
+Sam Whitfield,209-44-1203,71500,"Meets — PIP closed in March"
+Clean this up and write a one-paragraph summary of the two reviews.
+
+==============================================================================
+SNIPPET 6 — Patient message (clinic front desk)
+------------------------------------------------------------------------------
+"Please help me word a reminder to Mr. Thomas Reilly (DOB 03/14/1958, MRN
+0098231) that his A1C came back at 8.2 and Dr. Osei wants to start metformin.
+Appt Tuesday 9am." Make it friendly and clear.
+
+==============================================================================
+SNIPPET 7 — Student roster note (school)
+------------------------------------------------------------------------------
+"Draft an email to the parents of the 3rd-grade students who scored below grade
+level on the winter reading assessment: Aiden K. (score 41), Sofia M. (score
+38), and Marcus T. (score 44, IEP)." Keep it encouraging.
+
+==============================================================================
+SNIPPET 8 — Generic policy question
+------------------------------------------------------------------------------
+"In plain English, what is the difference between a hard deadline and a soft
+deadline in project management, and how should a team communicate each one?"
+
+==============================================================================
+SNIPPET 9 — Source snippet + credential (engineering)
+------------------------------------------------------------------------------
+"Here's the config that keeps failing — can you spot the bug?
+  DB_HOST=prod-db-internal.acme.local
+  DB_PASSWORD=Sp1ng!Br3ak2026
+  API_KEY=sk-live-8fJ20aa91kkQ..."
+Explain what might be wrong and how to fix it.
+
+==============================================================================
+SNIPPET 10 — Press release (already public)
+------------------------------------------------------------------------------
+"FOR IMMEDIATE RELEASE — Acme Corp today announced the opening of its 50th
+retail location, in Boise, ID. 'We're thrilled to grow with our customers,'
+said CEO Dana Fox." Tighten this and suggest a headline.
+
+==============================================================================
+SNIPPET 11 — Legal clause (client contract)
+------------------------------------------------------------------------------
+"Section 8.3 — Non-Compete. Consultant (Bright Harbor LLC) agrees not to engage
+any client of Meridian Bank introduced during the term for 24 months..."
+Explain this clause in plain English for a non-lawyer.
+
+==============================================================================
+SNIPPET 12 — Your own resume
+------------------------------------------------------------------------------
+"Here is my resume — my name, my last three employers, my email and phone.
+Rewrite the summary section to target a project-manager role." (The data is
+about YOU, and you consent to sharing it.)
+
+==============================================================================
+END OF SNIPPETS — 12 total. Record a verdict + reason for each in your redline.

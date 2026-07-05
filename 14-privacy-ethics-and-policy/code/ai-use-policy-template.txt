@@ -1,0 +1,78 @@
+MY PERSONAL AI-USE POLICY  (one-page template)
+The AI-Powered Professional · Chapter 14 · Graded Lab deliverable
+
+Fill in every [ ] bracket. Delete the guidance in (parentheses). Keep it to one
+page. This is a document you could actually pin above your desk and hand to a
+new teammate. Write it for YOUR real job.
+
+------------------------------------------------------------------------------
+0. WHO THIS IS FOR
+------------------------------------------------------------------------------
+Name:            [ your name ]
+Role / team:     [ e.g., Marketing Coordinator, Acme Corp ]
+Date / version:  [ 2026-07 · v1 ]  (revisit every [ 3 / 6 ] months)
+Governing policy: [ link or name of my employer's AI policy, or "none — using
+                    industry defaults" ]
+
+------------------------------------------------------------------------------
+1. THE NEVER LIST  (data I will NEVER paste into a public/consumer AI tool)
+------------------------------------------------------------------------------
+(Be specific to your job. These are examples — replace with yours.)
+- [ Client / customer names tied to their data ]
+- [ Anyone's Social Security number, government ID, or financial account number ]
+- [ Patient health information (PHI) — anything covered by HIPAA ]
+- [ Student records tied to a name — anything covered by FERPA ]
+- [ Passwords, API keys, secrets, internal system names ]
+- [ Anything marked CONFIDENTIAL, or any unannounced deal / layoff / strategy ]
+- [ ... add your own ... ]
+
+------------------------------------------------------------------------------
+2. THE REDACT RULE  (data I may use only after removing the specifics)
+------------------------------------------------------------------------------
+Before I paste, I replace real specifics with placeholders:
+  real name        ->  [NAME] or [CLIENT]
+  account / ID     ->  [ACCOUNT #]
+  address / phone  ->  [ADDRESS] / [PHONE]
+  dollar figures   ->  [AMOUNT]  (if the number itself is sensitive)
+Rule of thumb: the SHAPE of the task (rewrite, summarize, translate) is fine;
+the identifying SPECIFICS come out first. If redaction would gut the meaning,
+it belongs on the NEVER list, not here.
+
+------------------------------------------------------------------------------
+3. APPROVED TOOLS  (where different work is allowed to go)
+------------------------------------------------------------------------------
+| Kind of work                         | Tool I use                | Why it's OK |
+|--------------------------------------|---------------------------|-------------|
+| Public / non-sensitive drafting      | [ e.g., free ChatGPT ]    | [ no sensitive data ] |
+| Work with internal (not regulated)   | [ e.g., BoodleBox at      | [ FERPA/SOC-2, no-train |
+|   data                               |   box.boodle.ai, or an    |   contract — the vetted |
+|                                      |   enterprise Copilot ]    |   institutional tier ] |
+| Regulated or highly confidential     | [ approved secure tool /  | [ vendor agreement / |
+|   data                               |   private/local model /   |   data never leaves ] |
+|                                      |   DO BY HAND ]            |             |
+
+------------------------------------------------------------------------------
+4. DISCLOSURE  (when and how I say AI was involved)
+------------------------------------------------------------------------------
+I disclose meaningful AI assistance when: [ e.g., AI drafted a document I send
+externally; AI-generated an image/voice; a decision leaned on an AI summary ].
+How I disclose: [ e.g., a line in the doc — "Drafted with AI assistance; reviewed
+and verified by [me]." ]
+I do NOT need to disclose: [ e.g., minor spell-check / grammar help ].
+
+------------------------------------------------------------------------------
+5. VERIFICATION  (how I keep the human in the loop)
+------------------------------------------------------------------------------
+Before anything AI-touched leaves my hands, I:
+- [ ] Read every line myself — the AI drafts, I decide.
+- [ ] Check every fact, name, number, date, and citation against a real source.
+- [ ] Confirm no sensitive data leaked into the prompt or the output.
+- [ ] Own the result: my name is on it, not the model's.
+
+------------------------------------------------------------------------------
+6. MY ONE-SENTENCE SPINE RULE (in my own words)
+------------------------------------------------------------------------------
+[ e.g., "I choose the tool; I own the verdict. AI can draft it — I decide,
+verify, and answer for it." ]
+
+Signed: [ your name ]        Accountable steward of this data: [ your name ]

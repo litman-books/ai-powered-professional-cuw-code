@@ -1,0 +1,153 @@
+================================================================
+THE MERIDIAN GROUP
+2025 HYBRID WORK & PRODUCTIVITY REPORT
+Prepared by People Operations  |  Published May 2025  |  Internal — For Leadership Review
+================================================================
+
+NOTE: This is a fictional document created for the AI-Powered Professional
+course (Chapter 7, Project P7). The Meridian Group, its offices, its people,
+and every number below are invented for teaching. Treat it as if it landed on
+your desk with a note that says "summarize this for Thursday's leadership
+meeting." Then verify the summary against these words.
+
+
+----------------------------------------------------------------
+1. EXECUTIVE SUMMARY
+----------------------------------------------------------------
+
+Two years after adopting a hybrid work model, the Meridian Group set out to
+answer a simple question: is it working? This report draws on an all-employee
+survey, badge-access data from our four regional offices, and voluntary
+attrition records to give leadership an honest picture heading into fiscal
+year 2026.
+
+The short version: hybrid work is popular, productivity is holding or
+improving on most measures, and our office space is meaningfully
+underused on Mondays and Fridays. The report closes with four
+recommendations, the largest of which — a study of whether to consolidate
+from four offices to three — carries the biggest financial stakes and the
+most human sensitivity.
+
+
+----------------------------------------------------------------
+2. HOW WE GATHERED THE DATA
+----------------------------------------------------------------
+
+The employee survey was fielded from March 3 to March 28, 2025, to all 1,240
+employees across our four regional offices in Denver, Austin, Atlanta, and
+Portland. We received 1,017 completed responses, a response rate of 82
+percent — high enough that we treat the findings as representative, while
+noting that the most disengaged employees are the least likely to answer a
+survey.
+
+Office-use figures come from badge-access logs for the twelve weeks from
+January through March 2025. Attrition figures come from HR records for
+calendar years 2023 and 2024. Where we cite an outside benchmark, it is the
+Workspace Futures 2024 survey published by Harbor Analytics (a fictional
+research firm, sample size 3,000 knowledge workers), which we reference once,
+in Section 5.
+
+
+----------------------------------------------------------------
+3. WHAT EMPLOYEES TOLD US
+----------------------------------------------------------------
+
+Preference for hybrid is strong but not universal. Seventy-one percent of
+respondents said they prefer a hybrid schedule to either fully remote or
+fully in-office work. Of those who prefer hybrid, most chose two to three
+in-office days per week as their ideal; very few wanted a five-day return,
+and a smaller but vocal group (roughly one in six) said they would prefer to
+work fully remote.
+
+Self-reported productivity is up on the measures employees control. On a
+five-point scale, satisfaction with the ability to do focused work scored 4.2
+out of 5 — the highest of any category we asked about. Employees credited
+quiet home mornings and fewer hallway interruptions.
+
+Meetings are the sore spot. Employees reported spending, on average, 17 hours
+per week in meetings. When asked what fraction of those meetings "could have
+been an email or a short written update," the median answer was 40 percent.
+Meeting fatigue was the single most common write-in complaint.
+
+
+----------------------------------------------------------------
+4. WHAT THE BADGE DATA SHOWS
+----------------------------------------------------------------
+
+People come in for each other, not for the building. Badge-access data shows
+a clear midweek peak: Tuesday, Wednesday, and Thursday run near capacity,
+while Monday and Friday occupancy sits at roughly 35 percent. In plain terms,
+on the two bookend days of the week we are heating, cooling, cleaning, and
+leasing space that is two-thirds empty.
+
+Occupancy also varies by office. Austin and Atlanta run consistently fuller
+than Denver and Portland, a gap that widened over the twelve-week window.
+
+
+----------------------------------------------------------------
+5. RETENTION AND THE "FLEXIBLE FRIDAYS" PILOT
+----------------------------------------------------------------
+
+In September 2024 we launched a pilot called Flexible Fridays, which let
+teams designate Friday as a no-meetings, work-from-anywhere day. It was not
+introduced to fix attrition specifically, but the retention numbers moved in
+the right direction alongside it.
+
+Voluntary attrition fell from 14 percent in calendar year 2023 to 9 percent
+in calendar year 2024. We are careful not to claim the pilot alone caused the
+drop — the labor market cooled over the same period, which also reduces
+voluntary departures — but exit-interview sentiment about flexibility
+improved markedly. For outside context, the Workspace Futures 2024 survey
+(Harbor Analytics, n=3,000) reported that flexibility ranked as the second
+most common reason knowledge workers gave for staying in a job, behind
+compensation.
+
+
+----------------------------------------------------------------
+6. THE REAL-ESTATE QUESTION
+----------------------------------------------------------------
+
+Given the Monday/Friday vacancy, leadership has asked People Operations and
+Finance to jointly study whether to consolidate from four offices to three by
+the end of 2026. A preliminary Finance estimate puts the annual savings from
+closing one mid-size office at approximately $2.1 million, before one-time
+relocation and lease-exit costs.
+
+This is not a recommendation to close an office. It is a recommendation to
+study the option carefully, because it is the single largest cost lever in
+this report and because it affects where real people are asked to work.
+
+
+----------------------------------------------------------------
+7. RECOMMENDATIONS
+----------------------------------------------------------------
+
+1. Standardize "anchor days." Designate Tuesday through Thursday as expected
+   in-office days for most teams, and protect Monday and Friday for focused
+   and flexible work. This formalizes what employees are already doing.
+
+2. Cut recurring meetings by 20 percent. Audit every standing meeting, kill
+   or shorten the weakest, and shift status updates to short written posts.
+
+3. Commission the office-consolidation study. Have Finance and People
+   Operations return a recommendation, with numbers, by the end of Q3 2026.
+
+4. Invest in the hybrid setup. Budget approximately $350,000 in FY2026 for
+   home-office stipends and collaboration tools, so that the two-thirds of
+   the week spent out of the office is well-equipped.
+
+
+----------------------------------------------------------------
+8. RISKS AND WHAT WE DID NOT MEASURE
+----------------------------------------------------------------
+
+This report measures preference, self-reported productivity, occupancy, and
+attrition. It does NOT measure objective output quality, customer outcomes,
+mentorship of junior staff, or the harder-to-see cost of weaker in-person
+relationships. Anyone using this report to justify a large decision — an
+office closure especially — should treat those unmeasured factors as open
+questions, not as settled in hybrid's favor.
+
+================================================================
+END OF REPORT
+================================================================

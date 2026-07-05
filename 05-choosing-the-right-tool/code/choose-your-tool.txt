@@ -1,0 +1,68 @@
+========================================================================
+CHOOSE-YOUR-TOOL WORKSHEET  —  Task -> Category -> Tool
+The AI-Powered Professional, Chapter 5. Copy this; fill it in per task.
+Rule of the house: You choose the tool. You own the verdict.
+========================================================================
+
+STEP 1 — NAME THE TASK IN ONE PLAIN SENTENCE
+  "I need to _______________________________________________________."
+  (If you cannot say it in one sentence, you are not ready to pick a tool.)
+
+STEP 2 — NAME THE CATEGORY  (what KIND of tool does this task want?)
+  Circle one. The category comes BEFORE the brand.
+
+  [ ] General assistant  — write, think, plan, Q&A, quick everything
+  [ ] Research / answer engine — cited web answers, "deep research" reports
+  [ ] Document AI — summarize / ask questions of a long PDF or contract
+  [ ] Meeting AI — join a call, transcribe, pull action items
+  [ ] Translation — real-time or document translation across languages
+  [ ] Image — generate or edit a picture, logo, diagram, header
+  [ ] Video — generate or edit a short clip
+  [ ] Voice / audio — text-to-speech, narration, a podcast-style overview
+  [ ] Music — generate a song or a background track
+  [ ] Slides / presentation — turn a brief into a deck
+  [ ] Coding assistant — build a small script or automation (overview only)
+
+  (See Appendix B — The AI Tool Directory — for names in each category.)
+
+STEP 3 — SCORE 2-3 CANDIDATE TOOLS ON THE FIVE-C-ish TEST
+  Score each 1 (poor) to 5 (great). Highest total usually wins — but a
+  hard NO on Privacy or Fit vetoes the tool no matter how high the total.
+
+  FIT      — does it actually do THIS task well?          weight it most
+  COST     — free tier enough? or ~$20/mo? worth it here?
+  PRIVACY  — may this data legally/ethically go in? (Appendix C)
+  QUALITY  — is the output good enough to ship after I fix it?
+  LEARNING — can I get a usable result in the time I have?
+
+  +-----------------+------+------+---------+---------+---------+-------+
+  | Candidate tool  | Fit  | Cost | Privacy | Quality | Learn   | TOTAL |
+  +-----------------+------+------+---------+---------+---------+-------+
+  | 1.              |      |      |         |         |         |       |
+  | 2.              |      |      |         |         |         |       |
+  | 3.              |      |      |         |         |         |       |
+  +-----------------+------+------+---------+---------+---------+-------+
+
+STEP 4 — THE PRIVACY GATE  (answer BEFORE you paste anything)
+  Does this task involve any of: names + private details, health info,
+  student records, customer/client data, unreleased financials, anything
+  under an NDA?   [ ] NO -> proceed   [ ] YES -> STOP, see Appendix C.
+
+STEP 5 — DECIDE, THEN OWN IT
+  Chosen tool: ____________________   Category: ____________________
+  Why it beat the runner-up (one line): __________________________________
+  What I will VERIFY by hand before I ship: ______________________________
+  My name (the accountable human): _______________________________________
+
+------------------------------------------------------------------------
+QUICK TASK -> CATEGORY CHEAT TABLE  (start here when unsure)
+  "Rewrite this email nicer"            -> General assistant
+  "Is this claim actually true, cited?" -> Research / answer engine
+  "Summarize this 40-page report"       -> Document AI
+  "Get action items from that call"     -> Meeting AI
+  "Say this in Spanish for a client"    -> Translation
+  "Make a header image for the flyer"   -> Image
+  "Turn my brief into a slide deck"     -> Slides / presentation
+  "Narrate this script in my voice"     -> Voice / audio  (consent first!)
+  "Build me a short spreadsheet macro"  -> Coding assistant (then review it)
+========================================================================

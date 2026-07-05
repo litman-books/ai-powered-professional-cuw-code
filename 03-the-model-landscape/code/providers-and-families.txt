@@ -1,0 +1,118 @@
+========================================================================
+THE MODEL LANDSCAPE — ONE-PAGE PROVIDER & FAMILY REFERENCE
+The AI-Powered Professional · Chapter 3
+Snapshot: as of mid-2026 (built July 2026). Everything here MOVES.
+Pin model IDs, not marketing names. Re-check the vendor's page before
+you put a number in a budget. Prices are rough per-1-million-token
+snapshots; consumer subscriptions are priced separately (see bottom).
+========================================================================
+
+WHY THIS SHEET EXISTS
+  You do not memorize a landscape that changes weekly. You learn the
+  SHAPE of it: a handful of labs, each shipping a FAMILY of models on a
+  ladder from cheap-and-fast to expensive-and-powerful. Learn the ladder,
+  not the leaf. When a name here is stale, the pattern will still be true.
+
+
+------------------------------------------------------------------------
+THE FRONTIER LABS (who makes the "engines" behind the apps)
+------------------------------------------------------------------------
+  OpenAI ........ GPT-5.x family. Powers ChatGPT. The default all-rounder;
+                  largest reach. Strong writing, images (GPT Image 2),
+                  voice, agentic "computer use."
+  Anthropic ..... Claude family. Careful reasoning, long documents, top
+                  coding. Reputation for trust/precision. ~1M-token
+                  context on the flagship.
+  Google ........ Gemini 3.x family. Best native MULTIMODAL (reads video +
+                  audio directly) and deep Google Workspace integration
+                  (Gmail/Docs/Sheets). ~1M-token context.
+  xAI ........... Grok 4.3 (+ Grok Imagine for image/video). Real-time
+                  info via live web/X; cheaper tokens; looser content
+                  rules.
+  Meta .......... Llama 4 (Scout / Maverick). OPEN-WEIGHT — free to
+                  download and self-host. (Llama 4 "Behemoth" was
+                  previewed but never shipped — do not treat as available.)
+  Mistral ....... Mistral Large 3. European; open-weight-friendly
+                  (Apache-2.0 license on several models).
+  DeepSeek ...... DeepSeek V4. Open-weight (MIT); near-frontier quality at
+                  a fraction of the cost. Chinese lab — raise
+                  data-residency questions for sensitive work.
+  Alibaba ....... Qwen3 family. Strong OPEN-WEIGHT models + embeddings.
+  Microsoft ..... Phi (small, efficient, on-device-friendly) + MAI
+                  in-house models. Also resells the others via Azure.
+
+
+------------------------------------------------------------------------
+THE FAMILY LADDER (every lab ships a version of this)
+------------------------------------------------------------------------
+  NANO / TINY .... cheapest, fastest, high-volume, simple work.
+  MINI / SMALL ... cost-efficient; good for most everyday tasks.
+  BALANCED ....... the everyday workhorse; the sane default.
+  FLAGSHIP ....... hard, multi-step work; long documents; agents.
+  REASONING / PRO  "thinks" step-by-step before answering; deep research,
+                   multi-step problems, careful analysis. Slower, pricier.
+  REALTIME/VOICE   tuned for live spoken conversation and low latency.
+  IMAGE / VIDEO .. separate generation models (Chapter 9 covers these).
+
+
+------------------------------------------------------------------------
+THE CLAUDE LADDER (known-stable IDs — safe to write down)
+------------------------------------------------------------------------
+  Claude Haiku 4.5   claude-haiku-4-5   ~$1 in / ~$5 out    fast, cheap
+  Claude Sonnet 5    claude-sonnet-5    ~$3 in / ~$15 out   balanced default
+  Claude Opus 4.8    claude-opus-4-8    ~$5 in / ~$25 out   flagship reasoning
+  Claude Fable 5     claude-fable-5     ~$10 in / ~$50 out  frontier/creative
+  (Prices are mid-2026 snapshots. Output usually costs ~4-8x input.)
+
+  Rough comparisons (mid-2026, verify live):
+    OpenAI    gpt-5.5 ~ $5 in / ~$30 out ; nano/mini tiers far cheaper.
+    Google    gemini-3-pro ~ $2 in / ~$12 out ; gemini-3-flash cheaper.
+    xAI       Grok tokens cheaper than GPT-5.5 (verify).
+
+
+------------------------------------------------------------------------
+THE FIVE TRADEOFF DIALS (turn these before you choose)
+------------------------------------------------------------------------
+  1. DIFFICULTY .. hard reasoning/long docs -> flagship or reasoning tier.
+                   simple/routine -> mini or nano is usually plenty.
+  2. SPEED ....... need it now / live chat -> smaller, faster tier.
+  3. COST ........ high volume or tight budget -> smaller tier. Flagships
+                   cost 10-100x a nano per token; output dominates the bill.
+  4. PRIVACY ..... sensitive/confidential -> a governed enterprise tool or
+                   a LOCAL model (Chapter 11). Never paste PII/PHI into a
+                   consumer chatbot. (See Appendix C.)
+  5. MULTIMODAL .. images/audio/video in or out -> pick a model built for
+                   it (Gemini for native video+audio; image tools in Ch 9).
+
+
+------------------------------------------------------------------------
+OPEN vs CLOSED (preview — hands-on local is Chapter 11)
+------------------------------------------------------------------------
+  CLOSED / COMMERCIAL ... GPT, Claude, Gemini. You rent them (API or a
+                          subscription); the weights stay with the lab.
+                          Newest, largest, usually smartest.
+  OPEN-WEIGHT ........... Llama, Mistral, DeepSeek, Qwen, Phi. You can
+                          download and run them yourself -> privacy,
+                          offline, no per-token fee. Tradeoff: usually
+                          less capable than the top closed flagships, and
+                          you need decent hardware.
+  NOTE .................. "open-weight" is NOT the same as "open source" —
+                          you get the trained model, rarely the training
+                          data. Licenses differ (Apache-2.0, MIT, and
+                          model-specific community licenses). Read them.
+
+
+------------------------------------------------------------------------
+CONSUMER PLANS (how most professionals actually pay — mid-2026)
+------------------------------------------------------------------------
+  Free tiers ......... real and capable, but rate-limited and often on a
+                       smaller model. Fine for learning.
+  ~$20/month ......... ChatGPT Plus, Claude Pro, Google AI Pro (~$19.99,
+                       bundles NotebookLM Plus), Perplexity Pro, Grok.
+  ~$100-250/month .... "Pro / Max / Ultra" heavy-use tiers (verify).
+  These numbers move. SEND YOURSELF to the vendor's pricing page.
+
+========================================================================
+Golden rule: there is no single "best" model in 2026. There is the RIGHT
+tier for THIS task. You choose the tool. You own the verdict.
+========================================================================

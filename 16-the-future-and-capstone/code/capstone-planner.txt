@@ -1,0 +1,99 @@
+========================================================================
+CAPSTONE PLANNER — "Transform Your Work" (Project P14, FINAL)
+The AI-Powered Professional · Week 16
+------------------------------------------------------------------------
+Fill this in BEFORE you touch a single tool. This worksheet is the
+document you are graded on most. The AI can build the workflow; it
+cannot decide which part of YOUR job is worth transforming, or what
+"better" means for the people you serve. That judgment is the project.
+
+Type your answers in the blanks. Keep it to plain language. If a line
+does not apply, write "N/A" and say why. Save this as
+  capstone-plan.docx  (or .pdf) for submission.
+========================================================================
+
+1. THE TASK  (pick ONE real, recurring part of your own job)
+------------------------------------------------------------------------
+Task name: ____________________________________________________________
+In one sentence, what is it? _________________________________________
+How often do you do it?  ( ) daily  ( ) weekly  ( ) monthly  ( ) other: ___
+Who depends on it being done well? ___________________________________
+Why THIS task (not a flashier one)? __________________________________
+
+
+2. THE "BEFORE" — your current workflow, honestly
+------------------------------------------------------------------------
+Write the steps you do today, WITHOUT AI. Time each step.
+  Step 1: ______________________________________  ( ____ min)
+  Step 2: ______________________________________  ( ____ min)
+  Step 3: ______________________________________  ( ____ min)
+  Step 4: ______________________________________  ( ____ min)
+  Step 5: ______________________________________  ( ____ min)
+  TOTAL time today: ______ min      Done ______ times per week
+What is annoying, slow, or error-prone about it today? _______________
+
+
+3. TOOL CHOICE  (name the tool AND the model/tier — and WHY)
+------------------------------------------------------------------------
+Primary tool: _________________________  Model/tier: ________________
+Why this tool over the others you learned? ___________________________
+Backup / second tool (if any): _______________________________________
+Reach the tool from: ( ) browser  ( ) phone app  ( ) local (Ollama/LM Studio)
+(Cost note — as of mid-2026, tiers move; hedge & date any price.)
+
+
+4. PROMPTS / TEMPLATES  (paste the reusable prompt you will actually use)
+------------------------------------------------------------------------
+Prompt template (with {{placeholders}} for the parts that change):
+  _____________________________________________________________________
+  _____________________________________________________________________
+  _____________________________________________________________________
+Where does this live in your prompt library (Week 12)? _______________
+
+
+5. THE "AFTER" — your redesigned workflow
+------------------------------------------------------------------------
+Mark each step [AI] = AI drafts/generates, or [ME] = human decides/verifies.
+  Step 1: ______________________________________  [ AI / ME ]
+  Step 2: ______________________________________  [ AI / ME ]
+  Step 3: ______________________________________  [ AI / ME ]
+  Step 4: ______________________________________  [ AI / ME ]
+  Step 5: ______________________________________  [ AI / ME ]
+Where is the HUMAN GATE — the step where you check before anything ships?
+  ____________________________________________________________________
+
+
+6. VERIFICATION PLAN  (how you catch the AI when it is wrong)
+------------------------------------------------------------------------
+What could the AI get confidently wrong here? ________________________
+How will you check it every single time? _____________________________
+What is your rule for facts/numbers/names? ___________________________
+
+
+7. POLICY & PRIVACY CHECK  (see Appendix C — Responsible & Ethical AI Use)
+------------------------------------------------------------------------
+Does this task involve any: PII? PHI? student records? client secrets?
+  ( ) yes  ( ) no    If yes, what must NEVER be pasted into public AI? __
+Does your employer have an AI-use policy? Are you inside it? __________
+How will you disclose AI use where disclosure is owed? _______________
+
+
+8. MEASUREMENT PLAN  (open impact-measure.csv and fill it)
+------------------------------------------------------------------------
+Which metrics will you measure before vs after? (time, quality, rework,
+volume, cost, stress). Record them in impact-measure.csv.
+Baseline captured on (date): __________   Re-measure on (date): _______
+
+
+9. RISKS & FAILURE MODES
+------------------------------------------------------------------------
+If the AI part fails on a bad day, what is your fallback? _____________
+What would make you STOP using AI for this task? _____________________
+
+
+10. THE VERDICT LINE  (sign it)
+------------------------------------------------------------------------
+"I chose the tool. I own the verdict. On this task, AI drafts and I
+ decide, verify, and answer for the result."
+Accountable human (your name): _______________________________________
+========================================================================

@@ -1,0 +1,139 @@
+================================================================
+BENCHMARK PROMPTS — "Three Models, One Prompt" (Chapter 2 / Project P2)
+The AI-Powered Professional — Litman Books
+================================================================
+
+HOW TO USE THIS FILE
+--------------------
+These are five ready-to-paste prompts. Each one is built to stress a
+DIFFERENT one of the four rubric dimensions (accuracy, usefulness, tone,
+format). For the Normal tier you pick ONE prompt and send it — word for
+word, UNEDITED — to all three assistants (ChatGPT, Claude, Gemini), then
+score the three answers on model-compare-rubric.txt.
+
+Pick the prompt whose "What this tests" matches what you most want to
+learn about the tools. Prompt 1 is the recommended default because it is
+the easiest to fact-check and it exposes hallucinations fastest.
+
+Rules of the road:
+  - Send the SAME prompt to every model. No tweaking between models.
+  - In BoodleBox: one FRESH multi-bot chat for the whole run — @-mention all
+    the models and paste the prompt once (empty whiteboard for everyone).
+    Fallback on public tools: a fresh chat per model.
+  - Screenshot each answer as evidence.
+  - VERIFY every factual claim yourself. The model's confidence is not proof.
+
+----------------------------------------------------------------
+PROMPT 1  —  FACTS & HONESTY  (stresses: ACCURACY)   [recommended]
+----------------------------------------------------------------
+Paste this exactly:
+
+    Give me three specific, real published studies or reports on the
+    productivity effects of remote work. For each one, give the authors
+    or organization, the year, where it was published, and one key
+    finding in a sentence. If you are not fully certain a source is real,
+    say so clearly instead of guessing.
+
+What this tests: whether the model INVENTS sources. Models love to
+fabricate plausible-sounding studies, authors, and years in a confident
+tone. This is the fastest way to see a hallucination in the wild.
+
+How to verify: search for each cited study/report by title, author, and
+year. Does the source actually exist? Does it say what the model claimed?
+Did the model honestly flag its own uncertainty, or bluff? Score ACCURACY
+on how many claims survive checking and how honestly it hedged.
+
+----------------------------------------------------------------
+PROMPT 2  —  SUMMARIZE FAITHFULLY  (stresses: ACCURACY + USEFULNESS)
+----------------------------------------------------------------
+Paste the whole thing, passage included:
+
+    Summarize the following passage in exactly three bullet points for a
+    busy manager who will not read the original. Do not add any fact that
+    is not in the passage.
+
+    PASSAGE:
+    Our regional branch handled 4,120 member visits last quarter, up
+    about 9 percent from the previous quarter. The lobby wait time
+    averaged eleven minutes, which is over our seven-minute target. Two
+    of the four teller stations were unstaffed for part of most Fridays
+    because of a scheduling gap. Member-satisfaction survey scores held
+    steady at 4.2 out of 5, but written comments mentioned wait times
+    more than any other issue. The new appointment-booking tool launched
+    in the last month of the quarter and is too new to show a clear
+    effect, though early Friday afternoons look slightly less crowded.
+
+What this tests: can the model compress WITHOUT distorting or inventing?
+A weak answer will add a number that is not in the passage, overstate the
+booking tool's effect, or drop the most important issue (wait times).
+
+How to verify: check each bullet against the passage line by line. Every
+claim must be traceable to a sentence above. Any added or exaggerated
+fact is a miss. Also judge: did it obey "exactly three bullets"?
+
+----------------------------------------------------------------
+PROMPT 3  —  PRACTICAL PLAN  (stresses: USEFULNESS)
+----------------------------------------------------------------
+Paste this exactly:
+
+    I have 90 minutes to prepare for a 30-minute presentation to my
+    organization's leadership about adopting a new scheduling tool. I am
+    not a strong presenter and I get nervous. Give me a realistic
+    minute-by-minute prep plan for the 90 minutes, plus the three
+    slides you think matter most.
+
+What this tests: real-world usefulness and judgment. A useful answer is
+specific, time-boxed, and actually doable in 90 minutes. A weak answer is
+generic filler ("practice a lot, be confident") that could apply to
+anything.
+
+How to verify: could you actually FOLLOW this plan and be better prepared?
+Do the minutes add up to about 90? Are the three slide picks sensible for
+this specific audience? Usefulness is judged by "would I use this," not by
+how polished it sounds.
+
+----------------------------------------------------------------
+PROMPT 4  —  TONE CONTROL  (stresses: TONE)
+----------------------------------------------------------------
+Paste this exactly:
+
+    Rewrite this blunt email so it sounds warm, professional, and
+    respectful, without losing the core message or making it wishy-washy.
+    Keep it under 90 words.
+
+    ORIGINAL:
+    The report is late again. This is the third time. It is unacceptable
+    and it makes the whole team look bad. Send it today, no excuses.
+
+What this tests: can the model shift TONE while preserving MEANING? A good
+answer stays firm about the real problem (a repeatedly late report) but
+lands as respectful. A weak answer either stays harsh or goes so soft the
+point disappears.
+
+How to verify: read the rewrite aloud. Would you be comfortable sending it
+to a colleague? Is the actual message (the report is late, again, and it
+must come today) still clearly there? Did it respect the 90-word limit?
+
+----------------------------------------------------------------
+PROMPT 5  —  STRUCTURED OUTPUT  (stresses: FORMAT)
+----------------------------------------------------------------
+Paste this exactly:
+
+    Create a comparison table of three simple ways to organize daily
+    tasks: a plain to-do list, a Kanban board, and calendar time-blocking.
+    Use exactly these columns: Method, Best for, Main downside, Minutes to
+    set up. One row per method. Keep each cell to one short phrase.
+
+What this tests: does the model FOLLOW a precise format instruction? A good
+answer is a clean three-row table with exactly the four named columns and
+tight cells. A weak answer adds columns, writes paragraphs in the cells, or
+ignores the structure and returns prose.
+
+How to verify: check the table against the instruction literally — exactly
+those four columns, exactly three rows, short cells. Format adherence is
+about obedience to the spec, not about how pretty the table is.
+
+================================================================
+Remember the spine rule: You choose the tool. You own the verdict.
+The models draft the answers. You verify the facts and cast the vote.
+================================================================

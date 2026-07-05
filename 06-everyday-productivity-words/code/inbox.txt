@@ -1,0 +1,75 @@
+INBOX — Jordan Ellis  <jordan@brightpathlearning.example>
+Monday 8:14 AM • 17 unread • (this is a plain-text export of the morning inbox)
+
+Read each line the way it lands in your inbox: sender, subject, a one-line preview, the time.
+Some of these matter a lot. Some are noise. One or two are traps. That is the point.
+
+-------------------------------------------------------------------
+ 1. FROM: Mrs. Henderson <lhenderson@familymail.example>
+    SUBJECT: Re: Eli's tutoring — still waiting
+    8:02 AM • "I left a voicemail Friday and haven't heard back. I need to talk to someone TODAY about the certification issue. Please call." [FLAGGED]
+
+ 2. FROM: Copyworld Billing <ar@copyworld-print.example>
+    SUBJECT: SECOND NOTICE — Invoice #4471 past due ($410.00)
+    7:51 AM • "Our records show invoice #4471 remains unpaid 60 days past terms. Remit to avoid a late fee." (attachment: invoice-4471.pdf)
+
+ 3. FROM: Accounts Payable <billing@copyworld-print-invoices.example>
+    SUBJECT: URGENT: Wire payment required today to keep account active
+    7:33 AM • "Your account is 60 days overdue. Wire $410 to the updated bank details below within 24 hrs to avoid suspension. New routing #..." (different sender than #2)
+
+ 4. FROM: Priya Nandakumar <priya@brightpathlearning.example>
+    SUBJECT: notes from today?
+    Sunday 9:40 PM • "Can you get Thursday's notes + action items out first thing? I want everyone clear before the open house push."
+
+ 5. FROM: LinkedIn <notifications@linkedin.example>
+    SUBJECT: You appeared in 9 searches this week
+    Sunday 6:11 PM • "See who's looking at your profile. Upgrade to Premium to..." [PROMOTIONAL]
+
+ 6. FROM: Marcus Bell <marcus@brightpathlearning.example>
+    SUBJECT: fall email draft — NOT sent yet
+    Sunday 5:47 PM • "Rough draft of the enrollment email attached. Holding for Priya's review per the meeting. Do NOT send." (attachment: fall-email-draft.docx)
+
+ 7. FROM: Deb Osei <deb@brightpathlearning.example>
+    SUBJECT: open house date on the sign
+    Monday 7:20 AM • "I updated the calendar to the 24th but the printed sign out front still says the 25th — who has the key to the sign case?"
+
+ 8. FROM: TutorMatch Applicants <apply@tutormatch.example>
+    SUBJECT: New application: reading specialist (certified)
+    Sunday 11:02 PM • "A candidate matching 'certified reading specialist' applied. Resume attached." (attachment: resume.pdf)
+
+ 9. FROM: Level-Up Supplies <sales@levelup-supplies.example>
+    SUBJECT: 20% off phonics workbooks — this week only!
+    Monday 6:00 AM • "Restock your classroom! Level-1 through Level-4 phonics sets on sale through Friday." [PROMOTIONAL]
+
+10. FROM: reply-all thread (parent PTA list, 14 messages)
+    SUBJECT: Re: Re: Re: Bake sale volunteers??
+    Sunday–Monday • "+1" ... "who's bringing napkins" ... "I can do 3-5" ... (you are cc'd, not needed) [THREAD]
+
+11. FROM: Sam Rivera <sam@brightpathlearning.example>
+    SUBJECT: website — Friday
+    Monday 7:58 AM • "Confirmed I'll look at the Wix site Friday. Quick Q: do you know the login, or is it under your account?"
+
+12. FROM: The Taco Cart <events@thetacocart.example>
+    SUBJECT: Quote for Sat the 24th — catering 60 ppl
+    Monday 8:05 AM • "Happy to cater your open house. For ~60 guests we'd be $340 all-in. Let us know by Wed to lock the date."
+
+13. FROM: State Ed Newsletter <news@stateeducation.example>
+    SUBJECT: July bulletin: new tutoring grant window opens
+    Monday 6:30 AM • "Applications for the fall micro-grant ($2,500) open this week and close in 10 days." [NEWSLETTER, but note the deadline]
+
+14. FROM: IT Auto-Notice <no-reply@brightpathlearning.example>
+    SUBJECT: Your mailbox is 92% full
+    Sunday 3:00 AM • "Archive old messages to avoid disruption." [AUTOMATED]
+
+15. FROM: Mrs. Chen <rchen@familymail.example>
+    SUBJECT: schedule change for twins
+    Monday 7:40 AM • "Can we move both girls from Tue/Thu to Mon/Wed starting next week? Thanks!"
+
+16. FROM: Priya Nandakumar <priya@brightpathlearning.example>
+    SUBJECT: Re: catering
+    Monday 8:10 AM • "Cap it at 300 — if the taco quote is 340 either trim it or bring me the number. Don't just book it."
+
+17. FROM: Webinar Host <hello@growyourcenter.example>
+    SUBJECT: [Last chance] Free masterclass: 10x your enrollment with AI
+    Monday 5:15 AM • "Seats filling fast! Register now..." [PROMOTIONAL]
+-------------------------------------------------------------------

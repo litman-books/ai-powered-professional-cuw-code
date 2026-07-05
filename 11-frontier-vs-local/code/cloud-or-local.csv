@@ -1,0 +1,11 @@
+task_id,task_description,example_input,data_sensitivity,typical_volume,needs_newest_capability,ever_offline,recommended_venue,reason,human_verifier
+T1,Draft a job posting from a role summary,"Senior accountant, hybrid, 5+ yrs",public,low,no,no,free-cloud,"No private data; a free cloud model is plenty and costs nothing",Dana
+T2,Summarize a public benefits-policy PDF,"Open-enrollment guide (already public)",public,medium,no,no,frontier-cloud,"Long document + want the sharpest summary; nothing sensitive to expose",Dana
+T3,Rewrite a manager's blunt review into kind, clear feedback,"Contains employee name + performance notes",confidential,medium,no,no,local,"Names + performance detail must not leave the building; keep it on the laptop",Dana
+T4,Draft a leave letter that references a medical condition,"Employee FMLA note, diagnosis, dates",regulated,low,no,no,local,"Health info (PHI-like) — never paste into a public chatbot; local or a compliant tool only",Dana
+T5,Brainstorm onboarding-week icebreakers,"New-hire cohort, no names",public,low,no,no,free-cloud,"Zero sensitivity; speed and cost favor a free cloud model",Dana
+T6,Redline a vendor contract before legal review,"Draft NDA with counterparty names + fees",confidential,low,yes,no,local,"Confidential commercial terms; want a capable model but data stays private",Dana
+T7,,,,,,,,,
+T8,,,,,,,,,
+T9,,,,,,,,,
+T10,,,,,,,,,

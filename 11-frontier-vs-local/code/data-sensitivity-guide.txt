@@ -1,0 +1,101 @@
+====================================================================
+ DATA-SENSITIVITY GUIDE  —  "Can this go to the cloud?"
+ The AI-Powered Professional · Chapter 11 · starter reference
+ Snapshot: mid-2026. This is a teaching aid, not legal advice.
+ Your employer's policy always wins. When unsure, ask before you paste.
+====================================================================
+
+HOW TO USE THIS
+---------------
+Before you paste ANYTHING into an AI tool, ask one question:
+"If this text showed up on the front page of the newspaper tomorrow,
+ with my name and my employer's name attached, who gets hurt?"
+
+Your answer sorts the text into one of four tiers below. The tier
+decides the VENUE (where you may run it), not just the wording.
+
+  Venue key:
+    FRONTIER-CLOUD = the biggest paid cloud models (sharpest, newest)
+    FREE-CLOUD     = a free-tier cloud model (fine for throwaway work)
+    LOCAL          = a model running on YOUR machine (Ollama / LM Studio
+                     / Jan / GPT4All) — the data never leaves the laptop
+    COMPLIANT-ONLY = an enterprise tool your org has vetted under a
+                     signed data agreement (or LOCAL) — never a consumer app
+    NEVER          = do not put this into any AI tool, period
+
+--------------------------------------------------------------------
+TIER 1 — PUBLIC
+--------------------------------------------------------------------
+What it is:  Already public or truly harmless. Marketing copy, a
+             published policy, a press release, generic brainstorming,
+             a job posting with no internal detail.
+Examples:    "Write a LinkedIn post about our open house."
+             "Summarize this article I found online."
+Venue:       FREE-CLOUD or FRONTIER-CLOUD. Cloud is fine.
+Rule:        Convenience is allowed here. Enjoy the good tools.
+
+--------------------------------------------------------------------
+TIER 2 — INTERNAL
+--------------------------------------------------------------------
+What it is:  Not secret, but not for outsiders. Internal drafts,
+             meeting notes with no names, process docs, rough plans.
+Examples:    "Tidy up these notes from our team sync."
+             "Turn this outline into a slide structure."
+Venue:       FRONTIER-CLOUD is usually OK **if** your org allows it
+             AND the vendor contractually won't train on your data.
+             When in doubt, strip identifiers or go LOCAL.
+Rule:        Remove names, client IDs, and numbers you don't need.
+
+--------------------------------------------------------------------
+TIER 3 — CONFIDENTIAL
+--------------------------------------------------------------------
+What it is:  Would harm a person or the business if it leaked.
+             Named performance notes, salaries, contract terms,
+             unreleased financials, customer lists, passwords/keys.
+Examples:    "Rewrite this review of [named employee]."
+             "Redline this NDA with [counterparty] before legal sees it."
+Venue:       LOCAL or COMPLIANT-ONLY. Do NOT paste into a consumer
+             chatbot. This is where privacy starts to FORCE local.
+Rule:        If you can't name the vendor's data agreement, keep it
+             on your own machine.
+
+--------------------------------------------------------------------
+TIER 4 — REGULATED / PROTECTED
+--------------------------------------------------------------------
+What it is:  Protected by law. Personal data (PII: SSNs, full DOB,
+             account numbers), health info (PHI — HIPAA), student
+             records (FERPA), and anything under GDPR/CCPA.
+Examples:    "Summarize this patient's chart."
+             "Draft a leave letter that mentions the diagnosis."
+             "Sort these student grades and IEP notes."
+Venue:       LOCAL or COMPLIANT-ONLY — and often NEVER for a consumer
+             tool. A public chatbot is very likely a violation.
+Rule:        Regulated data does not go into consumer AI. Full stop.
+             Use a vetted, agreement-backed service or run it locally.
+
+--------------------------------------------------------------------
+THREE THINGS PEOPLE GET WRONG
+--------------------------------------------------------------------
+1. "It's a free tool, so it's private."  FALSE. Free often means the
+   vendor MAY use your input to improve their models. Free = the price
+   of the tool, not a promise about your data. Read the data terms.
+
+2. "It's local, so it's automatically safe."  NOT AUTOMATICALLY. A
+   local model is private ONLY if the machine is yours, the notes
+   aren't auto-syncing to a cloud drive, and no screen-share is
+   recording. Local removes ONE risk (the cloud), not all of them.
+
+3. "I removed the name, so it's fine."  MAYBE. De-identification is
+   real work — dates, ZIP codes, and rare details can re-identify a
+   person. Strip more than you think you need to.
+
+--------------------------------------------------------------------
+THE ONE-LINE TEST  (tape this to your monitor)
+--------------------------------------------------------------------
+   PUBLIC or INTERNAL  ->  cloud is fine (mind your org's policy)
+   CONFIDENTIAL        ->  keep it LOCAL or use a vetted tool
+   REGULATED           ->  LOCAL / compliant-only, or NEVER
+
+See Appendix C (Responsible & Ethical AI Use) for HIPAA / FERPA /
+GDPR one-paragraph explainers and your disclosure obligations.
+====================================================================

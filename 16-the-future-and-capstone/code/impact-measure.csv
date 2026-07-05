@@ -1,0 +1,11 @@
+metric,unit,before_value,after_value,how_measured,human_verified,notes
+time_per_task,minutes,45 (EXAMPLE - replace with yours),,stopwatch over 3 runs; take the median,,"the single most persuasive number if measured honestly"
+runs_per_week,count,8 (EXAMPLE - replace with yours),,count from your calendar/inbox for one week,,"time saved = (before_minutes - after_minutes) x runs_per_week"
+quality_score,1-5,3 (EXAMPLE - replace with yours),,"rate the OUTPUT 1(poor)-5(excellent) against a fixed checklist you write first",,"quality must not drop for time-saved to count"
+rework_or_errors,count,4 (EXAMPLE - replace with yours),,"count fixes/callbacks/corrections per 10 outputs",,"faster but wronger is not a win"
+volume_handled,count,8 (EXAMPLE - replace with yours),,"how many you can complete in a fixed hour",,"sometimes AI lifts throughput, not per-task time"
+cost,USD_per_month,0 (EXAMPLE - replace with yours),,"tool subscription attributable to this task; hedge & date it (mid-2026)",,"count the cost — is the subscription worth the hours saved?"
+stress_or_effort,1-5,4 (EXAMPLE - replace with yours),,"rate your own effort/dread 1(easy)-5(draining) before vs after",,"a soft metric that still matters to a human doing the job"
+,,,,,,"add your own task-specific metric row below"
+,,,,,,
+,,,,,,
