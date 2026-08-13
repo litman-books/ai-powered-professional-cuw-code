@@ -12,7 +12,7 @@ Prompt used (paste the exact text): _______________________________
 _________________________________________________________________
 Date run (models change weekly): __________________________________
 Which model/bot label each answer came from (in BoodleBox every reply
-is labeled — e.g. ChatGPT 5.5, Claude 4.7 Opus, Gemini 3.1 Pro; pin
+is labeled — e.g. ChatGPT 5.6, Claude Opus 5, Gemini 3.1 Pro; pin
 the version you saw, not the marketing name):
   ChatGPT: ___________  Claude: ___________  Gemini: ___________
 

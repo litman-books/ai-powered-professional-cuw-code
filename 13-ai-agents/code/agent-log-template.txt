@@ -22,7 +22,7 @@ Agent / tool used (name + mode): ______________________________________
         "ChatGPT, agent mode"  /  "Gemini Deep Research"  /
         "Claude, with web + file tools"  /  "Perplexity Deep Research"
 Model, if shown (pin the ID, date it): ________________________________
-   e.g. "gpt-5.5, mid-2026"  /  "claude-opus-4-8, mid-2026" (hedge; verify)
+   e.g. "gpt-5.6, mid-2026"  /  "claude-opus-5, mid-2026" (hedge; verify)
 
 ------------------------------------------------------------------------
 1. THE GOAL I DELEGATED

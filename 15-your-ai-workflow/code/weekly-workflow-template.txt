@@ -107,8 +107,8 @@ Task chosen: ____________________________________________________________
 
 Model tiers reminder (mid-2026 snapshot -- verify current IDs/prices):
    simple/high-volume  -> fast/cheap  (e.g. Claude Haiku 4.5 / a mini/flash)
-   everyday work       -> balanced    (e.g. Claude Sonnet 5 / GPT-5.5 / Gemini Flash)
-   hard/long-document  -> frontier    (e.g. Claude Opus 4.8 or Fable 5 / Gemini 3 Pro)
+   everyday work       -> balanced    (e.g. Claude Sonnet 5 / GPT-5.6 / Gemini Flash)
+   hard/long-document  -> frontier    (e.g. Claude Opus 5 or Fable 5 / Gemini 3 Pro)
    needs current facts -> answer engine (Perplexity / Grok) -- CHECK CITATIONS
    video/audio to read -> multimodal (Gemini) or a meeting tool
 
