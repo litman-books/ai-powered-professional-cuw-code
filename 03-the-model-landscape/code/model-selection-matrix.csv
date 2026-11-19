@@ -1,0 +1,8 @@
+Task #,Task (from your own job),Task Type,Difficulty (1-5),Volume (one-off / occasional / high),Speed Priority (low / med / high),Budget Sensitivity (low / med / high),Privacy Sensitivity (low / med / high),Needs Images/Audio/Video? (Y/N),Recommended Provider,Recommended Tier (nano / mini / balanced / flagship / reasoning),Reasoning Model Needed? (Y/N),Est. Cost Level ($ / $$ / $$$),Justification (1-2 sentences)
+EXAMPLE,Draft a friendly reply to a routine customer email,Short writing,2,high,high,high,low,N,Any major assistant (ChatGPT / Claude / Gemini),mini,N,$,"High volume + simple + speed-sensitive + non-confidential. A mini tier is fast and cheap; a flagship would be overkill and cost 10-100x more per token for no visible quality gain."
+1,,,,,,,,,,,,,
+2,,,,,,,,,,,,,
+3,,,,,,,,,,,,,
+4,,,,,,,,,,,,,
+5,,,,,,,,,,,,,
+6,,,,,,,,,,,,,

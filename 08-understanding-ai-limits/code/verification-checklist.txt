@@ -1,0 +1,89 @@
+====================================================================
+THE VERIFICATION CHECKLIST  —  your fact-check playbook
+====================================================================
+Print this. Adapt it. Keep it next to your keyboard for the rest of
+the course. It is the tool the whole week is teaching you to build.
+
+Core rule:  AI DRAFTS. YOU VERIFY. YOU OWN THE VERDICT.
+            AI is an assistant, not an authority.
+
+--------------------------------------------------------------------
+PART 1 — THE ERROR TAXONOMY  (learn the six tells)
+--------------------------------------------------------------------
+1. HALLUCINATED FACT — a confident statement that is simply false.
+   Tell: oddly specific, no way to check it, "just knows" it.
+
+2. FABRICATED CITATION — a study, report, DOI, case, or URL that
+   does not exist, or a real source that says something else.
+   Tell: perfect-looking title + author + year that returns nothing
+   when you actually search for it.
+
+3. FAKE QUOTE — real person, words they never said (or a real quote
+   bent out of shape).
+   Tell: sounds too on-the-nose; no primary recording or transcript.
+
+4. OUTDATED / TRAINING-CUTOFF — true once, stale now; a "latest" or
+   "most capable today" claim frozen at the model's cutoff date.
+   Tell: names a version/price/law that has since moved.
+
+5. PLAUSIBLE-WRONG NUMBER — a statistic with the right shape and a
+   wrong (often inflated, suspiciously round or precise) value.
+   Tell: "4.5 hours a day," "73%," no source, too good to be true.
+
+6. BIASED / SKEWED FRAME — a one-sided, stereotyped, or
+   confidently-settled take that hides real disagreement.
+   Tell: "the picture is now settled," "everyone agrees," no caveats.
+
+--------------------------------------------------------------------
+PART 2 — THE FIVE VERIFICATION MOVES
+--------------------------------------------------------------------
+[ ] CROSS-CHECK. Confirm the claim in at least one independent,
+    trusted source you did not get from the AI.
+[ ] ASK FOR THE SOURCE — THEN FOLLOW IT. Make the AI cite its claim,
+    then open the actual source. A citation you did not open is not a
+    citation; it is a decoration.
+[ ] CHECK AGAINST A TRUSTED ANCHOR. Compare to a primary source, an
+    official page, the vendor's own docs, or a subject-matter expert.
+[ ] TRIANGULATE. Ask a second, different AI tool the same question.
+    Where they disagree is exactly where to dig. (Agreement is NOT
+    proof — two models can share the same wrong training data.)
+[ ] THE STAKE-YOUR-NAME TEST. Would I put my name under this, in
+    front of my boss / my client / a regulator, and answer for it if
+    it is wrong? If not, it is not verified. It is a rumor with
+    good grammar.
+
+--------------------------------------------------------------------
+PART 3 — WHEN *NOT* TO USE AI  (the two-question gate)
+--------------------------------------------------------------------
+Ask before you reach for the tool:
+  Q1: How high are the STAKES if this is wrong? (money, health,
+      safety, legal, someone's reputation, a decision that can't be
+      undone)
+  Q2: How EASILY can I VERIFY it against a trusted source?
+
+  HIGH stakes + HARD to verify   -> do NOT rely on AI; use a human
+                                    expert / primary source.
+  HIGH stakes + EASY to verify   -> AI may draft; you verify every
+                                    line before it ships.
+  LOW stakes + EASY to verify    -> AI is a great fit.
+  LOW stakes + HARD to verify    -> fine for a first draft; label it
+                                    unverified.
+
+Never paste confidential info, PII, or PHI into a consumer AI tool.
+(See Appendix C.) And never fact-check AI with the same AI — a tool
+cannot be its own witness.
+
+--------------------------------------------------------------------
+PART 4 — THE CLAIM WORKSHEET  (copy one row per claim you check)
+--------------------------------------------------------------------
+CLAIM (quote it):
+TYPE (1-6 above):
+HOW I CHECKED (which trusted source / search / expert):
+WHAT IS ACTUALLY TRUE:
+VERDICT ( verified / wrong / can't-verify ):
+WOULD I STAKE MY NAME ON IT? ( yes / no ):
+
+--------------------------------------------------------------------
+Bottom line: you are not looking for reasons to distrust the tool,
+and you are not looking for reasons to trust it. You are testing it.
+Trust is earned one verified claim at a time.

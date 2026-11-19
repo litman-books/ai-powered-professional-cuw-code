@@ -1,0 +1,75 @@
+====================================================================
+AI IN MY WORK — A PERSONAL INVENTORY WORKSHEET
+The AI-Powered Professional · Chapter 1 · Litman Books
+====================================================================
+
+Fill this in with a pen, or copy it into a document and type into it.
+Do not use AI to fill it in — the whole point is to notice the AI you
+ALREADY live with. Most people discover they were using six or seven
+AI systems before they ever opened a chatbot. Honesty beats length.
+
+NAME: ______________________________   DATE: ________________
+MY JOB / ROLE (one line): ___________________________________
+
+--------------------------------------------------------------------
+PART A — THE AI ALREADY IN MY DAY
+--------------------------------------------------------------------
+List up to EIGHT tools, apps, or features you touch in a normal week
+that use AI. (Hints: email spam filter, autocomplete/autocorrect,
+maps and traffic ETA, photo search "find pictures of my dog," bank
+fraud alerts, streaming/shopping recommendations, meeting captions,
+navigation, a chatbot on a website, voice assistant.)
+
+For each: which of the SIX TYPES is it, mostly? Use the cheat sheet
+(ai-types-cheatsheet.txt). Some are more than one — pick the main one.
+
+  #  What it is (tool/feature)        Type (P/G/C/M/A/Phys)  Trust it?
+  -- -------------------------------  ---------------------  ---------
+  1  ____________________________     _____________________  Y / N
+  2  ____________________________     _____________________  Y / N
+  3  ____________________________     _____________________  Y / N
+  4  ____________________________     _____________________  Y / N
+  5  ____________________________     _____________________  Y / N
+  6  ____________________________     _____________________  Y / N
+  7  ____________________________     _____________________  Y / N
+  8  ____________________________     _____________________  Y / N
+
+  (Type key: P=Predictive  G=Generative  C=Conversational
+             M=Multimodal  A=Agentic     Phys=Physical/Robotic)
+
+--------------------------------------------------------------------
+PART B — WHERE THE JUDGMENT LIVES
+--------------------------------------------------------------------
+Pick the ONE task in your week where getting it WRONG would cost the
+most — money, trust, a person's safety, your reputation.
+
+  The high-stakes task: _______________________________________
+
+  If an AI drafted it and I did not check, the worst outcome is:
+  _____________________________________________________________
+  _____________________________________________________________
+
+  Who would have to answer for that outcome? (a name, not a team)
+  _____________________________________________________________
+
+--------------------------------------------------------------------
+PART C — MY FIRST HONEST GUESS (before the labs prove me wrong)
+--------------------------------------------------------------------
+  One task I would HAND to AI tomorrow without much worry:
+  _____________________________________________________________
+
+  One task I would NEVER hand to AI, no matter how good it gets:
+  _____________________________________________________________
+
+  Why the difference? (one or two sentences)
+  _____________________________________________________________
+  _____________________________________________________________
+
+--------------------------------------------------------------------
+REMEMBER
+--------------------------------------------------------------------
+You choose the tool. You own the verdict. The goal of this course is
+not to use AI the most — it is to know WHEN to reach for it, WHICH
+one, and HOW to verify what it hands back. Keep this sheet. In Week 16
+you will fill in a second copy and see how far you moved.
+====================================================================

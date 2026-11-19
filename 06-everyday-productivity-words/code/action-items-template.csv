@@ -1,0 +1,2 @@
+Owner,Action,Due Date,Source Quote (from transcript),Depends On / Condition,Verified By Hand (Y/N),Notes
+Sam,Fix website hours and check the contact-form destination,Friday,"""I can look Friday""",,Y,"EXAMPLE ROW — one worked entry to show the format. Every row needs a real quote and a named owner. Add your own rows below."

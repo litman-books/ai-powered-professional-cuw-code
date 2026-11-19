@@ -1,0 +1,36 @@
+SHORT SCRIPT TO VOICE  (~45 seconds spoken — read it aloud once to record your consent clip,
+then generate the same words with your cloned voice so you can compare human vs. synthetic)
+============================================================================================
+
+TITLE: A welcome message for the "Northside Community Center" (fictional — safe to use)
+
+--------------------------------------------------------------------------------------------
+[Main script:]
+
+"Hi, and welcome to the Northside Community Center. We're glad you're here.
+
+If this is your first visit, the front desk is straight ahead, just past the bulletin board.
+Our hours are nine to seven on weekdays, and nine to one on Saturdays.
+
+This week we've got two things worth knowing about: the Tuesday-evening resume workshop is
+open to anyone, no sign-up needed, and the community garden is looking for a few weekend
+volunteers.
+
+Whatever brought you in today, thanks for being part of this place. We'll see you around."
+
+[Spoken disclosure — END every version you publish with this line:]
+
+"The message you just heard used an AI-generated version of my voice."
+
+--------------------------------------------------------------------------------------------
+RECORDING NOTES
+- First, record YOURSELF reading the whole thing, ending with the disclosure line. This is
+  both your consent sample and your honest comparison baseline.
+- Then generate the same words with your cloned voice.
+- Listen to both back to back. Where does the clone nail it? Where does it fall into the
+  "uncanny valley" — a flat emphasis, a wrong pause, a mispronounced name?
+- Keep every file. Your ethics memo will reference the disclosure line and how you labeled the
+  synthetic version.
+
+Everything above is fictional. Do not swap in a real organization, a real person's words, or
+anything a listener could mistake for a genuine live announcement without the disclosure.
