@@ -1,0 +1,47 @@
+SYNTHETIC VOICE — CONSENT & DISCLOSURE FORM  (starter template — adapt it, make it yours)
+============================================================================================
+
+Purpose: No voice should be cloned, generated, or published without the informed, written
+consent of the person whose voice it is. This form is the record that consent was given, for
+what, and within what limits. In this course you may only clone YOUR OWN voice — so you are
+both the "Voice Owner" and the "Requester." Fill it out anyway: the habit is the point.
+
+--------------------------------------------------------------------------------------------
+1. VOICE OWNER (the person whose voice is being cloned)
+   Full name: ______________________________________
+   Relationship to requester (self / colleague / client / talent): ___________________
+
+2. REQUESTER / PROJECT
+   Your name: ______________________________________
+   Project or purpose: _____________________________________________________________
+   Tool used (e.g., ElevenLabs): ___________________________________________________
+
+3. SCOPE OF CONSENT  (check every use you are authorizing — leave the rest UNCHECKED)
+   [ ] A single, specific recording of the provided script, for this class only
+   [ ] Internal, non-public use only
+   [ ] Public publication (specify where): __________________________________________
+   [ ] Ongoing / reusable voice model
+   Duration of consent (e.g., "this assignment only", "12 months"): _________________
+
+4. HARD LIMITS  (these are NEVER authorized, regardless of the above)
+   - No impersonation intended to deceive any listener into thinking it is a live person.
+   - No financial, legal, medical, or emergency instructions in the cloned voice.
+   - No use that could harm, defame, or embarrass the Voice Owner.
+   - No transfer of the voice model to a third party without a new signed consent.
+
+5. DISCLOSURE  (how listeners will be told the audio is synthetic)
+   Method (spoken tag / on-screen label / caption / description): ___________________
+   Exact disclosure wording: _______________________________________________________
+   ("This audio uses an AI-generated voice." is a fine default.)
+
+6. REVOCATION
+   The Voice Owner may revoke this consent at any time, in writing, after which the model
+   and any generated audio must be deleted. Revocation contact: ____________________
+
+--------------------------------------------------------------------------------------------
+Voice Owner signature: __________________________   Date: ____________
+Requester signature:   __________________________   Date: ____________
+
+Reminder from Appendix C: consent + disclosure are the two non-negotiables. If either box
+is empty, you are not clear to proceed. You choose the tool; you own the verdict — and here,
+you also owe a duty to the person whose voice it is.

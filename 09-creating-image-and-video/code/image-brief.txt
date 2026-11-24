@@ -1,0 +1,86 @@
+=============================================================
+CREATIVE BRIEF — "Spring Open House" image set
+Client: Fair Oaks Garden Center (family-owned plant nursery)
+Prepared for: whoever is making the images (that's you)
+Version: 1.0
+=============================================================
+
+THE JOB
+-------
+We are holding our Spring Open House on the first Saturday in May.
+We need a small, on-brand set of images for a printed flyer, our
+social posts, and the header of one email. We have a tiny budget and
+no photographer this year. We want to try an AI image tool.
+
+Your job is to GENERATE these images on brief, iterate the prompts
+until they fit, and hand back a set we could actually publish -- with
+an honest note about the rights and how we should label them.
+
+
+WHAT WE SELL / WHO WE ARE
+-------------------------
+- A friendly, third-generation neighborhood garden center.
+- Not a big-box store. Warm, local, a little rustic, hands-in-the-dirt.
+- Customers are home gardeners: families, retirees, first-time
+  balcony gardeners. Ages roughly 30-75.
+- Brand feeling in three words: WARM, GROWING, TRUSTWORTHY.
+
+
+DELIVERABLES (this is the set you must produce)
+-----------------------------------------------
+1. HERO IMAGE  -- for the top of the printed flyer.
+   Aspect ratio: 4:5 (portrait). Subject: an inviting nursery
+   scene -- rows of spring seedlings, hanging baskets, morning light.
+   No readable text baked into the image (we add the words ourselves).
+
+2. SOCIAL SQUARE -- for Instagram/Facebook.
+   Aspect ratio: 1:1 (square). Subject: a close, joyful moment --
+   a pair of hands potting a young tomato plant, soil visible.
+
+3. EMAIL BANNER -- wide header for one announcement email.
+   Aspect ratio: 16:9 (landscape). Subject: a welcoming storefront /
+   entrance with flowers, a chalkboard-style sign area left blank.
+
+You may generate extra variations, but these THREE are the required set.
+
+
+MOOD & LOOK (the style levers)
+------------------------------
+- STYLE:       natural, photographic, editorial -- NOT cartoon,
+               NOT glossy stock-photo, NOT 3D render.
+- LIGHTING:    soft, warm morning light; gentle shadows; no harsh flash.
+- COLOR:       greens, terracotta/clay, warm wood, cream. Avoid neon.
+- COMPOSITION: uncluttered; room to add our own text; a clear subject.
+- FEELING:     approachable and real, like a good local newsletter photo.
+
+
+DO / DON'T
+----------
+DO:
+  - Keep it believable and honest -- this should look like OUR nursery
+    could look, not a fantasy garden.
+  - Leave clean, uncluttered space where we will add words later.
+  - Give us more than one option per deliverable if you can.
+
+DON'T:
+  - No recognizable real people's faces (no depicting a real named
+    person, staff member, or celebrity likeness).
+  - No brand logos, no competitor signage, no trademarked characters.
+  - No text baked into the image that we can't edit (garbled AI text
+    looks worse than no text).
+  - Nothing we'd be embarrassed to have a customer find out was AI.
+
+
+WHAT TO HAND BACK
+-----------------
+- The final image for each of the three deliverables (exported files
+  or clean screenshots).
+- The prompt you used for each, and the earlier prompt versions you
+  iterated through (v1 -> v2 -> v3) with a one-line note on what you
+  changed and why.
+- The completed image-rights-checklist.txt for the set.
+- A short, honest note: which tool you used, whether we may use these
+  commercially, and how you recommend we label them.
+
+Thank you. Make it feel like us.
+-- The Fair Oaks family

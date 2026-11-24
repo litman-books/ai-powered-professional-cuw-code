@@ -1,0 +1,75 @@
+PROMPT BEFORE / AFTER -- the same job, two ways of asking
+=========================================================
+
+The job: get an AI assistant to draft an email announcing a change
+to your customers. Same assistant, same day. The only difference is
+how well you communicated what you actually wanted.
+
+============================================================
+BEFORE  --  the vague prompt (an incantation)
+============================================================
+
+    Write an email to my customers about the new system.
+
+WHAT COMES BACK: a generic, hollow email. The assistant does not know
+who you are, what the "new system" is, why customers should care, how
+long the note should be, or what tone fits your practice. So it
+guesses -- and with nothing to go on, it guesses bland, padded, and
+faintly robotic. It may open with "In today's fast-paced world..."
+and invent details you never gave it.
+
+Garbage in, garbage out. The problem is not the assistant. The
+problem is that no competent colleague could write a good email from
+that instruction either.
+
+============================================================
+AFTER  --  the upgraded prompt (communication)
+============================================================
+
+    ROLE:
+    You are an experienced office manager at a small dental practice
+    who writes warm, plain-English messages to patients.
+
+    OBJECTIVE:
+    Draft a short email telling our patients that starting March 1 we
+    are switching to a new online patient portal for scheduling and
+    billing. Goal: patients feel reassured -- not alarmed -- and know
+    the one thing they must do.
+
+    CONTEXT:
+    - Practice: Riverbend Family Dental. Signed "Maria, Office Manager."
+    - Most patients are 40+ and not especially tech-savvy.
+    - The only action required: click a setup link we email them the
+      week of Feb 24, then set a password.
+    - Their appointment history and insurance info carry over --
+      nothing is lost.
+    - We are proud this makes booking easier. We are NOT raising prices;
+      do not imply that we are.
+
+    EXAMPLES (tone to match):
+    "Good news -- we've made a small change to make your life easier..."
+    Warm, first-person-plural ("we"), no jargon, short paragraphs.
+
+    FORMAT:
+    - Subject line + body.
+    - Under 180 words.
+    - One short bulleted list of what changes.
+    - End with a friendly sign-off and our phone number for questions.
+
+WHAT COMES BACK NOW: a usable first draft in your voice, with the real
+deadline, the one action, the reassurance, and the right length. You
+will still read it with a cold eye and fix a line or two -- that is the
+job -- but you are correcting a draft, not conjuring one from fog.
+
+============================================================
+THE POINT
+============================================================
+The difference between BEFORE and AFTER is not a secret phrase or a
+magic word. It is that the second prompt told the assistant what a
+competent colleague would need to know: who to be, what you want, the
+facts it cannot guess, the tone, and the shape. That is not "prompt
+engineering." That is professional communication -- the same skill
+that makes you good at briefing a new hire.
+
+You choose the tool. You own the verdict. Even the AFTER draft is a
+draft. You decide what ships.

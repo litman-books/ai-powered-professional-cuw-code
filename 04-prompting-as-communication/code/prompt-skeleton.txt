@@ -1,0 +1,78 @@
+THE REUSABLE PROMPT SKELETON
+============================
+Role · Objective · Context · Examples · Format   (R-O-C-E-F)
+
+Copy this. Fill the five blanks. Delete any line that truly does not
+apply -- but make that a decision, not an accident. Most weak prompts
+are weak because a blank was left empty and the assistant had to guess.
+
+------------------------------------------------------------
+ROLE -- who should the assistant be?
+
+    "You are a __________ who __________."
+
+    A role gives the assistant a voice, a standard, and a point of
+    view. "You are a veteran office manager who writes warm,
+    plain-English notes to patients" produces different words than
+    "You are a corporate lawyer." Pick the colleague you would
+    actually hand this task to.
+
+------------------------------------------------------------
+OBJECTIVE -- what exactly do you want, and why?
+
+    "Draft / summarize / compare / rewrite __________.
+     The goal is that the reader __________."
+
+    Name the ONE outcome that means success. "Write about the new
+    portal" is not an objective. "Get patients to feel reassured and
+    know the single action they must take" is.
+
+------------------------------------------------------------
+CONTEXT -- what would a competent colleague need to know?
+
+    - Audience: __________ (who reads this; what they already know)
+    - Facts it cannot guess: __________ (names, dates, numbers, limits)
+    - What must be true / must NOT be said: __________
+    - Your voice: __________ (formal? warm? plain? our house style?)
+
+    This is the half of the message people forget to send. The
+    assistant knows the whole internet and nothing about your Tuesday.
+
+------------------------------------------------------------
+EXAMPLES -- show, do not just tell.
+
+    "Here is one that worked / the tone to match: __________"
+
+    Paste one to three short samples. One good example teaches tone
+    faster than a paragraph of adjectives. This is "few-shot"
+    prompting: you give it a few shots at the target.
+
+------------------------------------------------------------
+FORMAT -- what shape should the answer take?
+
+    - Length: __________
+    - Structure: __________ (bullets? subject + body? a table? headings?)
+    - Must include / must end with: __________
+
+    If you do not name the shape, you get an essay when you wanted
+    three bullet points.
+
+------------------------------------------------------------
+AFTER THE FIRST DRAFT -- the real work.
+
+    The follow-up is where the value lives. Read the draft with a cold
+    eye, then say what to change:
+
+      "Warmer."   "Half as long."   "Add the March 1 deadline."
+      "You invented a discount -- remove it."
+      "Keep paragraph 2, redo the rest."
+
+    Two or three rounds of correction beat one heroic opening prompt.
+    You are not casting a spell. You are editing a fast, willing,
+    sometimes-wrong colleague.
+
+------------------------------------------------------------
+REMEMBER: You choose the tool. You own the verdict. The assistant
+drafts, generates, and accelerates. You decide what ships, you verify
+every fact it states, and you put your name on it. AI is an assistant,
+not an authority.

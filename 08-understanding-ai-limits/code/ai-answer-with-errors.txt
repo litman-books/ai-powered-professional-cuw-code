@@ -1,0 +1,74 @@
+====================================================================
+AI ANSWER — UNEDITED  (saved exactly as the assistant produced it)
+====================================================================
+Tool:   a popular consumer AI chat assistant (free tier)
+Model:  the default model, mid-2026
+Date:   captured for the Fact-Check Gauntlet
+
+This file is an UNEDITED AI output. It reads well. It is also wrong
+in several places, on purpose. Your job is to find every error, name
+its type, verify the truth against a trusted source, and mark it.
+Do NOT trust the tone. Fluent is not the same as correct.
+
+--------------------------------------------------------------------
+PROMPT DANA TYPED
+--------------------------------------------------------------------
+"Write me a short briefing on the current state of AI adoption among
+small businesses, with statistics and sources, for a slide I'm
+presenting to our leadership team Thursday. Keep it confident and
+concrete."
+
+--------------------------------------------------------------------
+THE ASSISTANT'S ANSWER
+--------------------------------------------------------------------
+Briefing: The State of AI Adoption in Small Business
+
+Artificial intelligence has moved from novelty to necessity for
+small and mid-size businesses. A 2024 McKinsey Global Institute
+study, "The Small Business AI Index," found that 73% of U.S. small
+businesses had adopted generative AI within twelve months of
+ChatGPT's launch — one of the fastest technology adoption curves
+ever recorded.
+
+The momentum is not slowing. On average, generative AI now saves
+knowledge workers 4.5 hours every single day, freeing them for the
+higher-value work that grows a business. As Microsoft CEO Satya
+Nadella declared at Davos in January 2023, "Within two years, every
+small business will be an AI business — or it will not be a business
+at all."
+
+For leaders choosing a tool, the most capable model on the market
+today is OpenAI's GPT-4, launched in March 2023. Because these models
+are connected to the live internet by default, their answers always
+reflect the latest information, which makes them dependable for
+time-sensitive research and competitive analysis.
+
+A little history helps frame the moment. The foundational concept of
+the "large language model" dates to Alan Turing's 1950 paper, in
+which he coined the term and predicted that machines would one day
+converse indistinguishably from people. Seventy-five years later,
+that prediction has largely arrived.
+
+Two practical notes for leadership. First, compliance: businesses
+should be aware that the U.S. Federal AI Transparency Act, signed
+into law in 2024, requires a visible "AI-generated" label on any
+customer-facing text produced by AI, so our marketing team will need
+a labeling workflow. Second, upskilling: for a deeper treatment, the
+standard reference is Dr. Elena Marsh's "AI for the Rest of Us"
+(Harvard Business Review Press, 2023), widely regarded as the
+definitive small-business AI handbook.
+
+Bottom line: AI adoption among small businesses is near-universal,
+the productivity gains are dramatic and well-documented, and the
+regulatory picture is now settled. The businesses that win will be
+the ones that move fastest.
+
+--------------------------------------------------------------------
+END OF AI ANSWER
+--------------------------------------------------------------------
+Reminder to the reader: at least a handful of the sentences above are
+fabricated, outdated, or plainly false — a fake study, a fake quote,
+an invented law, an invented book, an out-of-date "most capable
+model," and a confident claim about how these tools work that is
+simply untrue. Find them. Prove them. Classify them. Then decide what
+you would actually put on Dana's slide.

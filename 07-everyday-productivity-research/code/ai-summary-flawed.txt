@@ -1,0 +1,55 @@
+================================================================
+AI-GENERATED SUMMARY — DO NOT TRUST YET
+Source: "The Meridian Group 2025 Hybrid Work & Productivity Report"
+Tool: a consumer AI assistant (mid-2026), prompt: "Summarize this report in
+      one page for a leadership meeting."
+================================================================
+
+NOTE FOR STUDENTS: This is a REALISTIC AI summary of code/sample-report.txt.
+It reads clean, confident, and professional — which is exactly the problem.
+Several sentences are wrong, and one citation is fabricated. Your job in the
+lab and the project is to check every sentence against the source and mark it
+supported or unsupported. Do NOT assume the errors are obvious; the dangerous
+ones are the sentences that sound the most reasonable. The number of seeded
+problems is intentionally not printed here.
+
+----------------------------------------------------------------
+THE SUMMARY
+----------------------------------------------------------------
+
+The Meridian Group's 2025 Hybrid Work & Productivity Report reviews two years
+of hybrid work across the company's four regional offices in Denver, Austin,
+Atlanta, and Portland.
+
+The employee survey was fielded in March 2025 to all 1,240 employees and drew
+1,017 completed responses, an 82 percent response rate.
+
+Eighty-five percent of employees said they prefer a hybrid schedule over
+fully remote or fully in-office work, making hybrid the clear favorite.
+
+Employees rated their ability to do focused work 4.2 out of 5, the highest of
+any category surveyed, and reported spending about 17 hours per week in
+meetings — roughly 40 percent of which they felt could have been an email.
+
+Badge data shows a strong midweek peak, with Tuesday through Thursday near
+capacity and Monday and Friday occupancy around 35 percent.
+
+Following the launch of the company's "Summer Fridays" program in June 2023,
+voluntary attrition fell from 14 percent to 9 percent, showing that the pilot
+drove a significant improvement in retention.
+
+A 2024 McKinsey study cited in the report found that flexibility was the
+number one reason knowledge workers stay in their jobs.
+
+Because so much office space sits empty on Mondays and Fridays, the report
+recommends eliminating in-office requirements entirely and moving to a fully
+remote model, which Finance estimates would save approximately $21 million
+per year.
+
+The report also recommends cutting recurring meetings by 20 percent and
+investing about $350,000 in FY2026 on home-office stipends and collaboration
+tools.
+
+================================================================
+END OF AI SUMMARY
+================================================================
